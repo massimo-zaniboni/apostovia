@@ -10242,10 +10242,10 @@ name: Bologna
   }
 }
 
-Forlì_2013_11_24 {
+Forli_2013_11_24 {
 type: Circuito_Supermaster
 start_date: 2013-11-24
-name: Forlì
+name: Forli
   race {
   discipline: DS
   distance: 25
@@ -10433,7 +10433,7 @@ name: Pesaro
   race {
   discipline: DS
   distance: 50
-  nr_of_repetitions: 4
+  nr_of_repetitions: 2
   results {
     Vignocchi_Roberto 01 34 80
   }
@@ -10495,7 +10495,7 @@ name: Bologna
 Livorno_2014_11_29 {
 type: Italiani_Invernali
 start_date: 2014-11-29
-name: Cremona
+name: Livorno
   race {
   discipline: RN
   distance: 25
@@ -10669,7 +10669,7 @@ name: Trento
 }
 
 San_Marino_2015_06_05 {
-type: Circuito_Supermaster
+type: Italiani
 start_date: 2015-06-05
 name: San_Marino
   race {
@@ -10726,10 +10726,10 @@ name: Riccione
   }
 }
 
-Forlì_2015_11_22 {
+Forli_2015_11_22 {
 type: Circuito_Supermaster
 start_date: 2015-11-22
-name: Forlì
+name: Forli
   race {
   discipline: SL
   distance: 25
@@ -11377,7 +11377,7 @@ name: Brescia
   distance: 50
   nr_of_repetitions: 8
   results {
-    Bertoni_Stefano 05 15 55
+    Bertoni_Stefano 05 17 55
   }
   }
 }
