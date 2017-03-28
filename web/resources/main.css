@@ -1,0 +1,276 @@
+body {
+ background-color : #ffffff;
+}
+
+#container {
+  width: 100%;
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+
+  font-family: Arial, sans-serif;
+  font-size: medium;
+
+  color: black;
+}
+
+/* Put inside #container */
+#header-container {
+  position: static;
+  padding: 5px;
+  width: 98%;
+  height: 80px;
+  background-color: #e5e9fa;
+  border: thin dashed silver;
+  font-size: large;
+}
+
+#header-logo {
+  float: left;
+  clear: left;
+  text-align: left;
+  vertical-aligh: middle;
+}
+
+#header-description {
+  margin-left: 1em;
+  float: left;
+  vertical-align: middle;
+}
+
+#header-title {
+  text-align: center;
+}
+
+#header-container img {
+  border: none;
+  border-width: 0px;
+  border-style: none;
+}
+
+
+/* Put inside #container */
+#content {
+  padding: 1em;
+}
+
+/* Put inside #container */
+#sidebar {
+  clear: left;
+  float: left;
+  margin: 0;
+  margin-right: 1em;
+  padding: 5px;
+  border: thin dashed silver;
+  font-size: normal;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 1em;
+}
+
+#sidebar li a {
+  margin:0;
+
+  /* FIXME: creare una table e settare il background
+     delle celle... in una lista ho diverse altezze
+     per gli elementi. */
+  /*background:#eef none repeat scroll 0%;*/
+  border-left:4px solid white;
+  color:#505050;
+  font-weight:bold;
+  height:20px;
+  padding:6px 0pt 0pt 10px;
+  text-decoration:none;
+  line-height: 155%;
+}
+
+#sidebar li a:hover {
+  background:#EAEAEA none repeat scroll 0%;
+  border-left:4px solid #286EA0;
+  /*border-right:4px solid #286EA0;*/
+  color:#286EA0;
+}
+
+#footer {
+  font-size: small;
+  font-style: italic;
+  clear: both;
+  padding: 1px;
+  text-align: center;
+  border-top: thin dashed silver;
+}
+
+#content ul, #content ol, #content li, #content h1, #content h2, #s$#content a img,:link img,:visited img {
+  border: none;
+}
+
+#content a:link, #content a:visited
+{
+  text-decoration: none;
+}
+
+#content a:hover
+{
+  text-decoration: underline;
+}
+
+#content p
+{
+  margin-bottom: 5px;
+}
+
+#content h1
+#content ul, #content ol, #content li, #content h1, #content h2, #s$#content a img,:link img,:visited img
+{
+  border: none;
+}
+
+#content a:link, #content a:visited
+{
+  text-decoration: none;
+}
+
+#content a:hover
+{
+  text-decoration: underline;
+}
+
+#content td
+{
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  font-size: medium;
+  background-color: #fff;
+}
+
+#content p
+{
+  margin-bottom: 5px;
+}
+
+#content h1
+{
+  margin: 8px 0;
+  padding: 3px;
+  padding-left: 0px;
+  color: #555;
+  font-family: "Trebuchet MS", Arial, Verdana, sans-serif;
+  font-size: large;
+}
+
+#content label
+{
+  display: block;
+  padding: 0 1em 3px 0;
+  float: left;
+  text-align: left;
+  width: 8em;
+  color: #666;
+  font-weight: normal !important;
+}
+
+#content .sf_admin_list
+{
+  border: 1px solid #ddd;
+  border-bottom: 0px;
+  border-right: 0px;
+}
+
+#content .sf_admin_list caption {
+  padding: 2px;
+  text-align: center;
+  text-size: large;
+  height: 3em;
+  font-weight: bold;
+}
+
+#content .sf_admin_list a {
+  color: black;
+}
+
+#content .sf_admin_list th
+{
+  padding: 2px;
+  background-color: #ccf;
+  text-align: center;
+  text-size: medium;
+  height: 2em;
+}
+
+#content .sf_admin_list th a
+{
+  color: #333;
+}
+
+#content .sf_admin_list td
+{
+  padding: 3px;
+  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  height: 3em;
+}
+
+#content .sf_admin_row_header td
+{
+  padding: 2px;
+  background-color: #ccf;
+  text-align: center;
+  height: 2em;
+  font-size: large;
+  font-weight: bold;
+}
+
+#content .sf_menu_row_header td
+{
+  padding: 2px;
+  background-color: #ccf;
+  text-align: center;
+  height: 2em;
+  font-size: normal;
+  font-weight: normal;
+}
+
+#content .sf_menu_row_header a:link
+{
+  text-decoration: none;
+}
+
+#content .sf_menu_row_header a:visited
+{
+  text-decoration: none;
+}
+
+#content .sf_admin_row_0 td
+{
+
+}
+
+#content .sf_admin_row_1 td
+{
+  background-color: #eef;
+}
+
+#content_list {
+  margin: 2em;
+  border: 1em;
+  padding: 1em;
+  text-align: center;
+  font-size: medium;
+  line-height: 200%;
+}
+
+#content_list ul {
+  list-style-type: none;
+}
+
+#content_list li {
+}
+
+#content_list a {
+  
+}
