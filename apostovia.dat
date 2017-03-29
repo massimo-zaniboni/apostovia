@@ -11184,16 +11184,448 @@ name: Bolzano
   }
 }
 
+Riccione_2016_02_14 {
+type: Regionali_FIN
+start_date: 2016-02-14
+name: Riccione
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 32
+  results {
+    Vian_Andrea 12 34 75
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Pivetti_Marco 06 50 06
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Pivetti_Marco 01 35 26
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Ismail_Anna 00 44 68
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Giovanardi_Manuela 01 18 35
+    Montagnani_Simona 01 28 50
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Ismail_Anna 03 26 73
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 00 43 78
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Giovanardi_Manuela 03 07 57
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Serra_Antonio 06 19 00
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Sacchi_Marco 00 32 38
+    Masini_Marzio 00 32 60
+    Bertoni_Stefano 00 33 03
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Masini_Marzio 01 22 48
+    Barbieri_Matteo 01 23 17
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Dolzan_Marco 00 55 93
+    Sacchi_Marco 01 01 65
+    Barbieri_Matteo 01 09 26
+    Bertoni_Stefano 01 04 34
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 60
+  results {
+    Bettati_Matteo 20 01 34
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Dolzan_Marco 02 12 57
+    Serra_Antonio 03 28 21
+  }
+  }
+}
+
+Trento_2016_03_13 {
+type: Circuito_Supermaster
+start_date: 2016-03-13
+name: Trento
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Vian_Andrea 02 49 77
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Foroni_Jessica 00 45 60
+    Cappelli_Stefano 00 41 66
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 01 34 00
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Cappelli_Stefano 01 24 94
+    Serra_Antonio 01 33 13
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Foroni_Jessica 00 36 14
+  }
+  }
+}
+
+Lodi_2016_03_20 {
+type: Circuito_Supermaster
+start_date: 2016-03-20
+name: Lodi
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 00 39 04
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Mezzadri_Manuela 00 33 54
+    De_Biasio_Silvia 00 33 63
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Giovanardi_Manuela 01 25 88
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Mezzadri_Manuela 05 37 67
+  }
+  }
+}
+
+Bologna_2016_04_03 {
+type: Circuito_Supermaster
+start_date: 2016-04-03
+name: Bologna
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 00 39 83
+  }
+  }  
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Serra_Antonio 03 28 51
+  }
+  }  
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Dolzan_Marco 02 21 49
+  }
+  } 
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 00 32 00
+    De_Biasio_Silvia 00 33 31
+    Dolzan_Marco 00 26 03
+    Serra_Antonio 00 34 02
+    Vian_Andrea 00 34 20
+  }
+  }
+}
+
+Molinella_2016_04_09 {
+type: Circuito_Supermaster
+start_date: 2016-04-09
+name: Molinella
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Vandelli_Imer 08 14 11
+  }
+  }  
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Vandelli_Imer 04 37 80
+  }
+  }
+}
+
+Civitanova_2016_04_17 {
+type: Circuito_Supermaster
+start_date: 2016-04-17
+name: Civitanova
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 00 38 63
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Tosi_Andrea 00 33 34
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 01 36 60
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Tosi_Andrea 01 16 04
+  }
+  }  
+}
+
+San_Marino_2016_05_14 {
+type: Circuito_Supermaster
+start_date: 2016-05-14
+name: San Marino
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Bruzzi_Rossano 12 48 35
+    Tosi_Andrea 12 12 55
+  }
+  }  
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 03 22 81
+    Barillaro_Andrea 03 09 21
+    Serra_Antonio 03 36 57
+    Staffetta_Maschile 02 44 29
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Vian_Andrea 00 34 60
+    Tosi_Andrea 00 33 43
+  }
+  }  
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 46 60
+    Serra_Antonio 00 42 54
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Bruzzi_Rossano 02 59 05
+    Barillaro_Andrea 02 38 54
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Giovanardi_Manuela 00 39 02
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Giovanardi_Manuela 00 39 49
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    De_Biasio_Silvia 01 17 23
+    Vian_Andrea 01 17 65
+  }
+  }
+}
+
+Treviso_2016_05_20 {
+type: Circuito_Supermaster
+start_date: 2016-05-20
+name: Treviso
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 30
+  results {
+    Vian_Andrea 24 33 80
+  }
+  }
+}
+
 Riccione_2016_06_22 {
 type: Campionati_Italiani_FIN
 start_date: 2016-06-22
 name: Riccione
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Sacchi_Marco 01 05 05
+  }
+  }
   race {
   discipline: DS
   distance: 50
   nr_of_repetitions: 4
   results {
     Vignocchi_Roberto 03 28 25
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Masini_Marzio 01 26 11
+    Barbieri_Matteo 01 27 67
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Masini_Marzio 00 32 83
   }
   }
 }
@@ -11210,7 +11642,8 @@ name: Milano
     Giovanardi_Manuela 21 59 80
     Montagnani_Simona 24 10 30
   }
-  }  race {
+  }  
+  race {
   discipline: SL
   distance: 50
   nr_of_repetitions: 16
