@@ -130,6 +130,15 @@ athletes {
     subscribed: 1
   }
 
+  Bruzzi_Rossano {
+    name: Rossano
+    surname: Bruzzi
+    nickname:
+    birthday:
+    subscribed: 1
+  }
+
+
   De_Biasio_Silvia {
     name: Silvia
     surname: De_Biasio
