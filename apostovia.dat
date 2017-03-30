@@ -19,7 +19,7 @@ event_type {
    Campionati_Italiani_FIN {
       name: Campionati Italiani FIN
    }
-   
+
    Italiani_Invernali {
      name: Campionati Italiani Invernali UISP
    }
@@ -35,7 +35,7 @@ event_type {
    Trofeo_Notturno {
      name: Trofeo Notturno
    }
- 
+
    Circuito_Supermaster {
      name: Circuito Supermaster FIN
    }
@@ -101,7 +101,7 @@ athletes {
   Staffetta_Mista {
     name: Mista
     surname: Staffetta
-    nickname: 
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -109,24 +109,32 @@ athletes {
   Staffetta_Mista_8x {
     name: Mista_8x
     surname: Staffetta
-    nickname: 
+    nickname:
     birthday:
     subscribed: 1
   }
 
   Staffetta_Maschile {
-    name: Maschile 
+    name: Maschile
     surname: Staffetta
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 1
   }
 
   Staffetta_Femminile {
     name: Femminile
     surname: Staffetta
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
+    subscribed: 1
+  }
+
+  Zuccoli_Roberto {
+    name: Roberto
+    surname: Zuccoli
+    nickname:
+    birthday:
     subscribed: 1
   }
 
@@ -249,61 +257,61 @@ athletes {
     nickname:
     birthday:
     subscribed: 1
-  } 
- 
+  }
+
   Bettati_Matteo {
     name: Matteo
     surname: Bettati
     nickname:
-    birthday: 
+    birthday:
     subscribed: 1
   }
- 
+
   Lisotti_Alessandra {
     name: Alessandra
     surname: Lisotti
     nickname:
-    birthday: 
+    birthday:
     subscribed: 1
   }
- 
+
   Montaruli_Maria_Elena {
     name: Maria Elena
     surname: Montaruli
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
- 
+
   Gatti_Maria_Giulia {
     name: Maria Giulia
     surname: Gatti
     nickname:
-    birthday: 
+    birthday:
     subscribed: 1
   }
- 
+
   Zanasi_Marco {
     name: Marco
     surname: Zanasi
     nickname:
-    birthday: 
+    birthday:
     subscribed: 1
   }
- 
+
   Dolzan_Marco {
     name: Marco
     surname: Dolzan
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
- 
+
   Masini_Marzio {
     name: Marzio
     surname: Masini
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -337,7 +345,7 @@ athletes {
     nickname:
     birthday:
     subscribed: 1
-  } 
+  }
 
   Ismail_Anna {
     name: Anna
@@ -345,13 +353,13 @@ athletes {
     nickname:
     birthday:
     subscribed: 1
-  }  
+  }
 
   Angelucci_Carlo {
     name: Carlo
     surname: Angelucci
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -359,15 +367,15 @@ athletes {
     name: Francesco
     surname: Angelucci
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
- 
+
   Canullo_Andrea {
     name: Andrea
     surname: Canullo
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -375,15 +383,15 @@ athletes {
     name: Ruggero
     surname: Barbieri
     nickname: Rugge
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Barbolini_Luca {
     name: Luca
     surname: Barbolini
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -391,55 +399,55 @@ athletes {
     name: Francesco
     surname: Bavieri
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Bazzani_Roberta {
     name: Roberta
     surname: Bazzani
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Vezzali_Paolo {
     name: Paolo
     surname: Vezzali
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Meschiari_Roberto {
     name: Roberto
     surname: Meschiari
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Malagoli_Eva {
     name: Eva
     surname: Malagoli
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Anceschi_Marco {
     name: Marco
     surname: Anceschi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   La_Tanza_Francesco {
     name: Francesco
     surname: La_Tanza
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -447,7 +455,7 @@ athletes {
     name: Anna
     surname: Di_Foggia
     nickname: Annina
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -455,7 +463,7 @@ athletes {
     name: Gabriele
     surname: Gherardi
     nickname: Gaba
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -463,8 +471,8 @@ athletes {
   Beato_Serena {
     name: Serena
     surname: Beato
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -472,15 +480,15 @@ athletes {
     name: Simona
     surname: Beghini
     nickname: Simo
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Bellodi_Marco {
     name: Marco
     surname: Bellodi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -488,23 +496,23 @@ athletes {
     name: Paola
     surname: Benatti
     nickname: Zia
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Bignardi_Andrea {
     name: Andrea
     surname: Bignardi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Bignardi_Marco {
     name: Marco
     surname: Bignardi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -512,7 +520,7 @@ athletes {
     name: Paola
     surname: Bonfreschi
     nickname: Paolina
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -520,7 +528,7 @@ athletes {
     name: Marco
     surname: Borghi
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -528,15 +536,15 @@ athletes {
     name: Carlo
     surname: Contini
     nickname:
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
   Corradini_Claudio {
     name: Claudio
     surname: Corradini
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -544,7 +552,7 @@ athletes {
     name: Veronica
     surname: Corvino
     nickname: Vero
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -552,7 +560,7 @@ athletes {
     name: Federica
     surname: Fava
     nickname: Fede
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -560,7 +568,7 @@ athletes {
     name: Matteo
     surname: Fraggeri
     nickname: Schizzo
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -568,7 +576,7 @@ athletes {
     name: Paolo
     surname: Francia
     nickname: Jesus
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -576,7 +584,7 @@ athletes {
     name: Angiolina
     surname: Galloni
     nickname: Angela
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -584,7 +592,7 @@ athletes {
     name: Emanuele
     surname: Gnoli
     nickname: Gnomo
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -592,15 +600,15 @@ athletes {
     name: Valeria
     surname: Goldoni
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Grenzi_Francesco {
     name: Francesco
     surname: Grenzi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -608,23 +616,23 @@ athletes {
     name: Matteo
     surname: Guerzoni
     nickname: Fragola
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Magri_Davide {
     name: Davide
     surname: Magri
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Malagoli_Massimo {
     name: Massimo
     surname: Malagoli
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -632,31 +640,31 @@ athletes {
     name: Marika
     surname: Masini
     nickname: Marika
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Mazzeo_Patrizia {
     name: Patrizia
     surname: Mazzeo
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Meloni_Barbara {
     name: Barbara
     surname: Meloni
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Melotti_Fabio {
     name: Fabio
     surname: Melotti
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -664,7 +672,7 @@ athletes {
     name: Fabio
     surname: Modena
     nickname: Scheggia
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -672,31 +680,31 @@ athletes {
     name: Sara
     surname: Montemarano
     nickname: Saretta
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Montorsi_Matteo {
     name: Matteo
     surname: Montorsi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Olmi_Alessia {
     name: Alessia
     surname: Olmi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Pagliani_Sandra {
     name: Sandra
     surname: Pagliani
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -704,31 +712,31 @@ athletes {
     name: Ermanno
     surname: Panzetti
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Paradisi_Fabrizio {
     name: Fabrizio
     surname: Paradisi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Pedrazzi_Monica {
     name: Monica
     surname: Pedrazzi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Piersanti_Stefania {
     name: Stefania
     surname: Piersanti
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -736,7 +744,7 @@ athletes {
     name: Patrizia
     surname: Pigoni
     nickname: Pigo
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -744,7 +752,7 @@ athletes {
     name: Marco
     surname: Pivetti
     nickname: Piva
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
@@ -752,15 +760,15 @@ athletes {
     name: Maria_Pia
     surname: Poli
     nickname: Pia
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Ponanti_Giulia {
     name: Giulia
     surname: Ponanti
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -768,15 +776,15 @@ athletes {
     name: Davide
     surname: Ranzi
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Romani_Elena {
     name: Elena
     surname: Romani
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -784,7 +792,7 @@ athletes {
     name: Stefano
     surname: Sangiorgi
     nickname: Direttore
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
@@ -792,7 +800,7 @@ athletes {
     name: Venerando
     surname: Schiros
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -800,15 +808,15 @@ athletes {
     name: Andrea
     surname: Scianti
     nickname: Coach
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Serafini_Luca {
     name: Luca
     surname: Serafini
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -816,7 +824,7 @@ athletes {
     name: Antonio
     surname: Serra
     nickname: Antoine
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
@@ -824,23 +832,23 @@ athletes {
     name: Luca
     surname: Simeone
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Stucchi_Carlo {
     name: Carlo
     surname: Stucchi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Tellolli_Flora {
     name: Flora
     surname: Tellolli
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -848,7 +856,7 @@ athletes {
     name: Roberto
     surname: Vignocchi
     nickname: Robby
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
@@ -856,7 +864,7 @@ athletes {
     name: Martino
     surname: Vincenzi
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -864,7 +872,7 @@ athletes {
     name: Massimo
     surname: Zaniboni
     nickname: Massi
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -872,15 +880,15 @@ athletes {
     name: Maurizio
     surname: Zaniboni
     nickname: Mauri
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
   Zoboli_Paolo {
     name: Paolo
     surname: Zoboli
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -888,7 +896,7 @@ athletes {
     name: Elisa
     surname: Desero
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -896,7 +904,7 @@ athletes {
     name: Luca
     surname: Zivieri
     nickname: Bazooka
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -904,7 +912,7 @@ athletes {
     name: Mattia
     surname: Rotteglia
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -912,7 +920,7 @@ athletes {
     name: Stefano
     surname: Brindisino
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -920,15 +928,15 @@ athletes {
     name: Marco
     surname: Rizzo
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Dugoni_Marco {
     name: Marco
     surname: Dugoni
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -936,7 +944,7 @@ athletes {
     name: Eugenia
     surname: Romani
     nickname: Eugi
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -944,7 +952,7 @@ athletes {
     name: Daniele
     surname: Campana
     nickname:
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
@@ -952,7 +960,7 @@ athletes {
     name: Riccardo
     surname: Ambra
     nickname: Rikky
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
@@ -960,15 +968,15 @@ athletes {
     name: Alessandro
     surname: Verde
     nickname: Green
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Cavallo_Massimiliano {
     name: Massimiliano
     surname: Cavallo
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -976,7 +984,7 @@ athletes {
     name: Sonia
     surname: Susassi
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -984,7 +992,7 @@ athletes {
     name: Giacomo
     surname: Meloni
     nickname: Jack
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -992,15 +1000,15 @@ athletes {
     name: Francesco
     surname: Messerotti
     nickname: Chicco
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Ferrari_Massimo {
     name: Massimo
     surname: Ferrari
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -1008,31 +1016,31 @@ athletes {
     name: Stefano
     surname: Salvo
     nickname: Cisti
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   De_Leonardis_Francesco {
     name: Francesco
     surname: De_Leonardis
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Robusto_Francesco {
     name: Francesco
     surname: Robusto
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Vezzali_Claudia {
     name: Claudia
     surname: Vezzali
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -1040,7 +1048,7 @@ athletes {
     name: Massimo
     surname: Calzolari
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1048,7 +1056,7 @@ athletes {
     name: Claudio
     surname: Finelli
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1056,47 +1064,47 @@ athletes {
     name: Imer
     surname: Vandelli
     nickname: Imer
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
   Campana_Massimo {
     name: Massimo
     surname: Campana
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Ferrari_Luca {
     name: Luca
     surname: Ferrari
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Sinibaldi_Dario {
     name: Dario
     surname: Sinibaldi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Capellini_Fabio {
     name: Fabio
     surname: Capellini
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Luca_Santi {
     name: Santi
     surname: Luca
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -1104,15 +1112,15 @@ athletes {
     name: Massimo
     surname: Silvestrini
     nickname: Pen
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Pellicciari_Sonia {
     name: Sonia
     surname: Pelliciari
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 1
   }
 
@@ -1120,7 +1128,7 @@ athletes {
     name: Maria_Teresa
     surname: Scrivani
     nickname: Terry
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1128,7 +1136,7 @@ athletes {
     name: Maryna
     surname: Matviyevska
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1136,7 +1144,7 @@ athletes {
     name: Federico
     surname: Barbieri
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1144,7 +1152,7 @@ athletes {
     name: Raffaele
     surname: Ricco`
     nickname: Raffa Jr
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1152,7 +1160,7 @@ athletes {
     name: Raffaele
     surname: Gambigliani_Zoccoli
     nickname: Girino
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1160,23 +1168,23 @@ athletes {
     name: Michele
     surname: Zinfonia
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Coppola_Mariano {
     name: Mariano
     surname: Coppola
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Vaccari_Giulia {
     name: Giulia
     surname: Vaccari
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -1184,7 +1192,7 @@ athletes {
     name: Fernando
     surname: Mecenero
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1192,15 +1200,15 @@ athletes {
     name: Matteo
     surname: Ferrandes
     nickname: Matte
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Camellini_Fausto {
     name: Fausto
     surname: Camellini
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -1208,7 +1216,7 @@ athletes {
     name: Alessandro
     surname: Candito
     nickname: Candy
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
@@ -1216,7 +1224,7 @@ athletes {
     name: Eugenia
     surname: Panicara
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1224,39 +1232,39 @@ athletes {
     name: Federico
     surname: Bedeschi
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Finelli_Mario {
     name: Mario
     surname: Finelli
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Santopietro_Vincenzo {
     name: Vincenzo
     surname: Santopietro
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Monterastelli_Marco {
     name: Marco
     surname: Monterastelli
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Milanesi_Daniele {
     name: Daniele
     surname: Milanesi
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -1264,23 +1272,23 @@ athletes {
     name: Marco
     surname: Camellini
     nickname: Cammello
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
   Galli_Andrea {
     name: Andrea
     surname: Galli
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
   Bertaina_Barbara {
     name: Barbara
     surname: Bertaina
-    nickname: 
-    birthday: 
+    nickname:
+    birthday:
     subscribed: 0
   }
 
@@ -1288,7 +1296,7 @@ athletes {
     name: Riccardo
     surname: Grandi
     nickname: Ric
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1296,7 +1304,7 @@ athletes {
     name: Davide
     surname: Zanfi
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1304,7 +1312,7 @@ athletes {
     name: Marco
     surname: Patrimia
     nickname:
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1312,7 +1320,7 @@ athletes {
     name: Lavinia
     surname: Agostino
     nickname: Lavi
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1320,7 +1328,7 @@ athletes {
     name: Sarah
     surname: Poggi
     nickname: Saretta
-    birthday: 
+    birthday:
     subscribed: 0
   }
 
@@ -1328,7 +1336,7 @@ athletes {
     name: Pierluigi
     surname: Carraroli
     nickname: Piero
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
@@ -1336,7 +1344,7 @@ athletes {
     name: Marinella
     surname: Santi
     nickname: Mari
-    birthday: 
+    birthday:
     subscribed: 1
   }
 
@@ -3139,7 +3147,7 @@ events {
       distance: 50
       nr_of_repetitions: 4
       results {
-           Staffetta_Mista 2'20''34 
+           Staffetta_Mista 2'20''34
            Staffetta_Mista 3'18''56
            Staffetta_Mista 2'45''02
       }
@@ -3968,7 +3976,7 @@ events {
         Scianti_Andrea 3'26''13
       }
     }
-  } 
+  }
 
   Riccione_2005-06-19 {
     type: Italiani
@@ -5161,7 +5169,7 @@ events {
        Mecenero_Fernando 52"83
        Campana_Daniele 40"36
       }
-    } 
+    }
 
     race {
       discipline: DF
@@ -5284,7 +5292,7 @@ events {
         Staffetta_Maschile 2'14"96
       }
     }
- 
+
     race {
       discipline: MX
       distance: 50
@@ -5495,7 +5503,7 @@ events {
       results {
         Romani_Eugenia		54"20
 	Pivetti_Marco 36"50
-	Sangiorgi_Stefano 40"20 
+	Sangiorgi_Stefano 40"20
       }
     }
     race {
@@ -5523,10 +5531,10 @@ events {
 	Galloni_Angiolina 	01 05 21
 	Zinfonia_Michele	00 27 56
 	Brindisino_Stefano	00 32 79
-	Pivetti_Marco		00 33 31  
-	Campana_Daniele		00 36 25  
-	Borghi_Marco		00 43 68  
-	Mecenero_Fernando	00 38 68  
+	Pivetti_Marco		00 33 31
+	Campana_Daniele		00 36 25
+	Borghi_Marco		00 43 68
+	Mecenero_Fernando	00 38 68
       }
     }
 
@@ -5535,10 +5543,10 @@ events {
       distance: 25
       nr_of_repetitions: 4
       results {
-	Scrivani_Maria_Teresa	01 18 09  
+	Scrivani_Maria_Teresa	01 18 09
 	Zinfonia_Michele	01 16 37
 	Campana_Daniele		01 34 08
-	Scianti_Andrea		01 36 16  
+	Scianti_Andrea		01 36 16
       }
     }
 
@@ -5574,7 +5582,7 @@ events {
       nr_of_repetitions: 4
       results {
 	Bonfreschi_Paola 	01 49 04
-	Di_Foggia_Anna		01 52 16  
+	Di_Foggia_Anna		01 52 16
 	Romani_Eugenia		01 52 38
 	Vignocchi_Roberto	01 35 20 [http://youtu.be/FJ24MB_-C4E]
 	Sangiorgi_Stefano	01 43 10
@@ -5680,19 +5688,19 @@ events {
       distance: 25
       nr_of_repetitions: 2
       results {
-	Montemarano_Sara              40"53     
-	Matviyevska_Maryna 	      34"03  [http://youtu.be/Jt0CkFexaFw]   
-	Di_Foggia_Anna                41"53     
-	Panicara_Eugenia              43"91     
-	Beghini_Simona                45"05     
-	Meschiari_Roberto             34"88  [http://youtu.be/T2b7jcPbH1A]   
-	Bedeschi_Federico             35"92     
-	Dugoni_Marco                  39"00     
-	Finelli_Mario                 30"75     
-	Candito_Alessandro            29"39     
-	Campana_Daniele               35"99     
-	Borghi_Marco                  43"94     
-	Mecenero_Fernando             38"55     
+	Montemarano_Sara              40"53
+	Matviyevska_Maryna 	      34"03  [http://youtu.be/Jt0CkFexaFw]
+	Di_Foggia_Anna                41"53
+	Panicara_Eugenia              43"91
+	Beghini_Simona                45"05
+	Meschiari_Roberto             34"88  [http://youtu.be/T2b7jcPbH1A]
+	Bedeschi_Federico             35"92
+	Dugoni_Marco                  39"00
+	Finelli_Mario                 30"75
+	Candito_Alessandro            29"39
+	Campana_Daniele               35"99
+	Borghi_Marco                  43"94
+	Mecenero_Fernando             38"55
       }
     }
 
@@ -5701,14 +5709,14 @@ events {
       distance: 25
       nr_of_repetitions: 8
       results {
-	Scrivani_Maria_Teresa      2'32"11     
-	Romani_Eugenia             3'25"07     
-	Ricco_Raffaele             2'34"07     
-	Gambigliani_Zoccoli_Raffaele 2'46"55     
-	Pivetti_Marco               2'32"90     
-	Vignocchi_Roberto           2'47"33 [http://youtu.be/C8_26d9acIU]    
-	Vandelli_Imer               3'53"72     
-	Scianti_Andrea              2'49"21     
+	Scrivani_Maria_Teresa      2'32"11
+	Romani_Eugenia             3'25"07
+	Ricco_Raffaele             2'34"07
+	Gambigliani_Zoccoli_Raffaele 2'46"55
+	Pivetti_Marco               2'32"90
+	Vignocchi_Roberto           2'47"33 [http://youtu.be/C8_26d9acIU]
+	Vandelli_Imer               3'53"72
+	Scianti_Andrea              2'49"21
 
     }
     }
@@ -5717,17 +5725,17 @@ events {
       distance: 25
       nr_of_repetitions: 2
       results {
-	Di_Foggia_Anna              50"16     
-	Panicara_Eugenia            54"02     
-	Ricco_Raffaele              43"72     
-	Barbieri_Ruggero            38"42     
-	Gambigliani_Zoccoli_Raffaele 42"26     
-	Dugoni_Marco                48"34     
-	Sangiorgi_Stefano           43"30     
-	Borghi_Marco                49"01     
-	Vandelli_Imer               52"84     
-	Scianti_Andrea              48"13     
-	Mecenero_Fernando           47"73     
+	Di_Foggia_Anna              50"16
+	Panicara_Eugenia            54"02
+	Ricco_Raffaele              43"72
+	Barbieri_Ruggero            38"42
+	Gambigliani_Zoccoli_Raffaele 42"26
+	Dugoni_Marco                48"34
+	Sangiorgi_Stefano           43"30
+	Borghi_Marco                49"01
+	Vandelli_Imer               52"84
+	Scianti_Andrea              48"13
+	Mecenero_Fernando           47"73
       }
    }
     race {
@@ -5743,7 +5751,7 @@ events {
       distance: 25
       nr_of_repetitions: 8
       results {
-	Staffetta_Mista 2'06"88 
+	Staffetta_Mista 2'06"88
 	Staffetta_Mista 2'31"83 [http://youtu.be/KPa7Yb3vDxY]
 	Staffetta_Mista 2'38"67
       }
@@ -5936,7 +5944,7 @@ events {
       }
    }
   }
-  
+
   Ravenna_2009_06_12 {
     type: Italiani
     start_date: 2009-06-12
@@ -5955,7 +5963,7 @@ events {
       Vignocchi_Roberto	1'28''21 [http://youtu.be/9j_0YNLnpmM]
       }
    }
-   
+
    race {
       discipline: SL
       distance: 50
@@ -6109,7 +6117,7 @@ events {
        }
    }
   }
-  
+
   Riccione_2009_06_28 {
     type: Campionati_Italiani_FIN
     start_date: 2009-06-28
@@ -6123,7 +6131,7 @@ events {
 	Pivetti_Marco	3'09"57
       }
     }
-  
+
     race {
       discipline: DS
       distance: 50
@@ -6132,7 +6140,7 @@ events {
 	Vignocchi_Roberto	3'26"64
       }
     }
-  
+
     race {
       discipline: DF
       distance: 50
@@ -6158,10 +6166,10 @@ events {
       distance: 50
       nr_of_repetitions: 2
       results {
-	Matviyevska_Maryna 1'12"68	
+	Matviyevska_Maryna 1'12"68
 	Scrivani_Maria_Teresa 1'06"68
 	Pivetti_Marco	1'10"46
-	Sangiorgi_Stefano	1'18"82	
+	Sangiorgi_Stefano	1'18"82
       }
     }
 
@@ -6179,7 +6187,7 @@ events {
       distance: 50
       nr_of_repetitions: 1
       results {
-	Sangiorgi_Stefano	43"38	
+	Sangiorgi_Stefano	43"38
       }
     }
 
@@ -6299,12 +6307,12 @@ events {
       }
     }
   }
-  
+
   Vicenza_2009_11_22 {
     type: Circuito_Supermaster
     start_date: 2009-11-22
     name: Vicenza
-    
+
     race {
       discipline: MX
       distance: 25
@@ -6323,7 +6331,7 @@ events {
       }
     }
   }
-  
+
   Livorno_2009_11_29 {
     type: Coppitalia
     start_date: 2009-11-29
@@ -6339,7 +6347,7 @@ events {
         Mecenero_Fernando 03 46 16
       }
     }
-    
+
     race {
       discipline: DF
       distance: 25
@@ -6348,7 +6356,7 @@ events {
         Meschiari_Roberto 00 36 75
       }
     }
-  
+
     race {
       discipline: DS
       distance: 25
@@ -6360,7 +6368,7 @@ events {
         Campana_Daniele 01 37 86
       }
     }
-  
+
     race {
       discipline: SL
       distance: 25
@@ -6385,7 +6393,7 @@ events {
         Pivetti_Marco 03 11 52
       }
     }
-  
+
     race {
       discipline: RN
       distance: 25
@@ -6399,7 +6407,7 @@ events {
         Mecenero_Fernando 00 46 35
       }
     }
-  
+
     race {
       discipline: MX
       distance: 25
@@ -6421,20 +6429,20 @@ events {
       distance: 25
       nr_of_repetitions: 8
       results {
-        Romani_Eugenia  3'11"43   
+        Romani_Eugenia  3'11"43
       }
     }
-    
+
     race {
       discipline: MX
       distance: 25
       nr_of_repetitions: 16
       results {
-        Romani_Eugenia 7'50"04 
+        Romani_Eugenia 7'50"04
       }
     }
   }
-  
+
   Riccione_2009_12_06 {
     type: Circuito_Supermaster
     start_date: 2009-12-06
@@ -6454,12 +6462,12 @@ events {
       distance: 50
       nr_of_repetitions: 2
       results {
-        Vignocchi_Roberto 1'34"71 
+        Vignocchi_Roberto 1'34"71
       }
     }
   }
-  
-  
+
+
   San_Marino_2009_12_20 {
     type: Italiani_Invernali
     start_date: 2009-12-20
@@ -6470,8 +6478,8 @@ events {
       distance: 50
       nr_of_repetitions: 1
       results {
-        Scianti_Andrea  42"08 
-	Serra_Antonio   42"73 
+        Scianti_Andrea  42"08
+	Serra_Antonio   42"73
       }
     }
 
@@ -6480,11 +6488,11 @@ events {
       distance: 50
       nr_of_repetitions: 2
       results {
-        Pivetti_Marco  1'19"05 
+        Pivetti_Marco  1'19"05
 	Vignocchi_Roberto 1'35"96
       }
     }
-    
+
     race {
       discipline: SL
       distance: 50
@@ -6501,10 +6509,10 @@ events {
       results {
 	Di_Foggia_Anna		1'54"34
 	Panicara_Eugenia	 2'05"36
-	Mecenero_Fernando	 1'45"75 
+	Mecenero_Fernando	 1'45"75
       }
     }
-    
+
     race {
       discipline: DF
       distance: 50
@@ -6513,17 +6521,17 @@ events {
 	Matviyevska_Maryna	36"31
       }
     }
-    
+
     race {
       discipline: DS
       distance: 50
       nr_of_repetitions: 2
       results {
-	Scrivani_Maria_Teresa	1'17"94  
+	Scrivani_Maria_Teresa	1'17"94
 	Scianti_Andrea		1'34"91
-	Serra_Antonio		1'38"85 
-	Vignocchi_Roberto	 1'32"44 
-	Zaniboni_Maurizio	 1'27"40 
+	Serra_Antonio		1'38"85
+	Vignocchi_Roberto	 1'32"44
+	Zaniboni_Maurizio	 1'27"40
       }
     }
 
@@ -6532,9 +6540,9 @@ events {
       distance: 50
       nr_of_repetitions: 2
       results {
-        Di_Foggia_Anna		1'32"29 
+        Di_Foggia_Anna		1'32"29
 	Sangiorgi_Stefano	 1'18"67
-	Zaniboni_Maurizio	1'11"98  
+	Zaniboni_Maurizio	1'11"98
 	Ricco_Raffaele		1'05"89
       }
     }
@@ -6544,8 +6552,8 @@ events {
       distance: 50
       nr_of_repetitions: 4
       results {
-        Romani_Eugenia		3'45"52 
-	Scrivani_Maria_Teresa	2'52"26 
+        Romani_Eugenia		3'45"52
+	Scrivani_Maria_Teresa	2'52"26
 	Pivetti_Marco		3'00"53
       }
     }
@@ -6554,10 +6562,10 @@ events {
       distance: 50
       nr_of_repetitions: 1
       results {
-	Romani_Eugenia		 41"83 
+	Romani_Eugenia		 41"83
 	Panicara_Eugenia	45"41
-	Matviyevska_Maryna	32"96  
-	Mecenero_Fernando	39"58 
+	Matviyevska_Maryna	32"96
+	Mecenero_Fernando	39"58
 	Sangiorgi_Stefano	35"39
       }
     }
@@ -6566,8 +6574,8 @@ events {
       distance: 50
       nr_of_repetitions: 4
       results {
-	Staffetta_Mista		 2'28"46 
-	Staffetta_Mista		 3'15"51 
+	Staffetta_Mista		 2'28"46
+	Staffetta_Mista		 3'15"51
       }
     }
     race {
@@ -6575,8 +6583,8 @@ events {
       distance: 50
       nr_of_repetitions: 4
       results {
-	Staffetta_Femminile	 2'25"59 
-	Staffetta_Maschile	 2'15"09 
+	Staffetta_Femminile	 2'25"59
+	Staffetta_Maschile	 2'15"09
       }
     }
   }
@@ -6624,7 +6632,7 @@ events {
   }
 
 
-Faenza_Imola_2010_02_06 { 
+Faenza_Imola_2010_02_06 {
   type: Regionali
   start_date: 2010-02-06
   name: Faenza_Imola
@@ -6633,7 +6641,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Campana_Daniele 01 36 06
   }
   }
@@ -6642,7 +6650,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Pivetti_Marco 01 22 36
     Vignocchi_Roberto 01 33 49
   }
@@ -6651,7 +6659,7 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Vandelli_Imer 01 54 79
   }
   }
@@ -6659,7 +6667,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Di_Foggia_Anna 01 39 02
     Scrivani_Maria_Teresa 01 08 06
   }
@@ -6668,7 +6676,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Scianti_Andrea 03 35 56
     Serra_Antonio 03 37 52
 
@@ -6678,7 +6686,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Pivetti_Marco 03 13 86
     Vignocchi_Roberto 03 49 93
   }
@@ -6687,7 +6695,7 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Barbieri_Ruggero 02 47 01
 
   }
@@ -6696,7 +6704,7 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Panicara_Eugenia 04 30 30
     Serra_Antonio 03 57 93
     Zaniboni_Maurizio 03 26 53
@@ -6707,7 +6715,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Bonfreschi_Paola 02 56 59
     Ricco_Raffaele 02 29 68
 
@@ -6717,7 +6725,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Campana_Daniele 00 42 94
     Scrivani_Maria_Teresa 00 36 40
 
@@ -6727,7 +6735,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Matviyevska_Maryna 00 36 86
 
   }
@@ -6736,7 +6744,7 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Di_Foggia_Anna 00 52 35
     Ferrari_Luca 00 47 70
     Ferrari_Massimo 00 47 50
@@ -6750,7 +6758,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Ferrari_Luca 00 39 27
     Ferrari_Massimo 00 40 66
     Matviyevska_Maryna 00 32 70
@@ -6762,7 +6770,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Staffetta_Mista 02 05 41
   }
 
@@ -6770,13 +6778,13 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Staffetta_Maschile 02 51 20
   }
   }
   }
 
-  Bolzano_2010_02_07 { 
+  Bolzano_2010_02_07 {
   type: Circuito_Supermaster
   start_date: 2010-02-07
   name: Bolzano
@@ -6785,21 +6793,21 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Romani_Eugenia 01 55 53
   }
   } race {
   discipline: SL
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Romani_Eugenia 01 30 11
 
   }
 }
 }
 
-  Pinarella_2010_02_21 { 
+  Pinarella_2010_02_21 {
   type: Circuito_Supermaster
   start_date: 2010-02-21
   name: Pinarella
@@ -6808,7 +6816,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Pivetti_Marco 01 23 44
     Romani_Eugenia 01 56 68
   }
@@ -6817,7 +6825,7 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Pivetti_Marco 01 21 34
   }
 
@@ -6825,7 +6833,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Romani_Eugenia 03 49 10
     Vignocchi_Roberto 03 19 85 [http://youtu.be/6q2FqqHp-wo]
   }
@@ -6834,13 +6842,13 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 32
-  results { 
+  results {
     Vignocchi_Roberto 12 42 76 [http://youtu.be/_t0LgS9QMR8]
   }
 }
 }
 
-  Legnano_2010_03_14 { 
+  Legnano_2010_03_14 {
   type: Coppitalia
   start_date: 2010-03-14
   name: Legnano
@@ -6848,7 +6856,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Pivetti_Marco 01 23 17
     Sangiorgi_Stefano 01 40 58
 
@@ -6858,7 +6866,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Campana_Daniele 01 30 14
     Mecenero_Fernando 01 26 42
     Milanesi_Daniele 01 10 26
@@ -6873,7 +6881,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Milanesi_Daniele 02 33 97
     Vandelli_Imer 03 34 52
 
@@ -6883,7 +6891,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Campana_Daniele 00 42 12
     Mecenero_Fernando 00 51 50
     Vignocchi_Roberto 00 42 26 [http://youtu.be/gStGphcn3KU]
@@ -6893,14 +6901,14 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Staffetta_Maschile 02 30 80
 
   }
   }
   }
 
-  Montecatini_2010_03_21 { 
+  Montecatini_2010_03_21 {
   type: Circuito_Supermaster
   start_date: 2010-03-21
   name: Montecatini
@@ -6908,7 +6916,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Romani_Eugenia 01 52 56
     Vignocchi_Roberto 01 31 32 [http://youtu.be/lOrXV2GA6I0]
   }
@@ -6917,7 +6925,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Vignocchi_Roberto 02 50 25 [http://youtu.be/wz1dLVYIaDk]
   }
 
@@ -6925,13 +6933,13 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Romani_Eugenia 00 42 10
   }
   }
   }
 
-  Bologna_2010_03_28 { 
+  Bologna_2010_03_28 {
   type: Circuito_Supermaster
   start_date: 2010-03-28
   name: Bologna
@@ -6939,7 +6947,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Vignocchi_Roberto 01 33 07
   }
 
@@ -6947,13 +6955,13 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Vignocchi_Roberto 01 16 14 [http://youtu.be/Z1VlJFZfk18]
   }
   }
   }
 
-  Fano_2010_04_11 { 
+  Fano_2010_04_11 {
   type: Circuito_Supermaster
   start_date: 2010-04-11
   name: Fano
@@ -6961,7 +6969,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Vignocchi_Roberto 01 34 32 [http://youtu.be/Lv2IMrQ4wgs]
   }
 
@@ -6969,7 +6977,7 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Vignocchi_Roberto 01 26 59 [http://youtu.be/zcAFM0Bvqdc]
   }
 
@@ -6977,7 +6985,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Romani_Eugenia 03 17 15
   }
 
@@ -6985,13 +6993,13 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Romani_Eugenia 00 52 61
   }
   }
   }
 
-  Senigallia_2010_04_18 { 
+  Senigallia_2010_04_18 {
   type: Coppitalia
   start_date: 2010-04-18
   name: Senigallia
@@ -6999,7 +7007,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Pivetti_Marco 01 21 87
     Vignocchi_Roberto 01 32 47
 
@@ -7009,7 +7017,7 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Barbieri_Ruggero 01 16 25
     Matviyevska_Maryna 01 24 98
     Meschiari_Roberto 01 26 95
@@ -7025,7 +7033,7 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Barbieri_Ruggero 01 25 47
     Sangiorgi_Stefano 01 38 13
     Vignocchi_Roberto 01 36 87
@@ -7036,7 +7044,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Scrivani_Maria_Teresa 02 30 58
     Vandelli_Imer 03 32 81
   }
@@ -7045,7 +7053,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Campana_Daniele 00 41 57
     Scianti_Andrea 00 42 39
     Vandelli_Imer 01 03 54
@@ -7055,7 +7063,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Campana_Daniele 00 37 09
     Matviyevska_Maryna 00 32 83
     Milanesi_Daniele 00 32 35
@@ -7067,7 +7075,7 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 25
   nr_of_repetitions: 16
-  results { 
+  results {
     Staffetta_Mista_8x 04 54 17
   }
 
@@ -7075,13 +7083,13 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Staffetta_Mista 02 09 85
   }
   }
   }
 
-  Palermo_2010_04_18 { 
+  Palermo_2010_04_18 {
   type: Circuito_Supermaster
   start_date: 2010-04-18
   name: Palermo
@@ -7090,7 +7098,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 60
-  results { 
+  results {
     Romani_Eugenia 26 10 69
   }
 
@@ -7098,13 +7106,13 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 16
-  results { 
+  results {
     Romani_Eugenia 06 42 92
   }
 }
 }
 
-  Travagliato_2010_04_25 { 
+  Travagliato_2010_04_25 {
   type: Circuito_Supermaster
   start_date: 2010-04-25
   name: Travagliato
@@ -7112,7 +7120,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Romani_Eugenia 04 10 00
     Vignocchi_Roberto 03 45 55 [http://youtu.be/Qjj-CdHlugI]
   }
@@ -7121,14 +7129,14 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Romani_Eugenia 00 41 13
     Vignocchi_Roberto 00 32 79
-  }  
+  }
   }
   }
 
-  Imola { 
+  Imola {
   type: Coppa_Emilia_Marche
   start_date: 2010-05-02
   name: Imola
@@ -7136,7 +7144,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Milanesi_Daniele 02 30 57
     Pivetti_Marco 02 36 09
     Vandelli_Imer 03 35 28
@@ -7146,7 +7154,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 25
   nr_of_repetitions: 1
-  results { 
+  results {
     Camellini_Marco 00 18 61
     Candito_Alessandro 00 16 35
     Milanesi_Daniele 00 17 96
@@ -7158,7 +7166,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 25
   nr_of_repetitions: 1
-  results { 
+  results {
     Camellini_Marco 00 15 72
     Dugoni_Marco 00 19 06
     Mecenero_Fernando 00 20 38
@@ -7169,7 +7177,7 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Mecenero_Fernando 00 48 52
     Vandelli_Imer 00 52 60
     Vignocchi_Roberto 00 41 18
@@ -7180,7 +7188,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Candito_Alessandro 00 29 51
     Dugoni_Marco 00 38 24
     Pivetti_Marco 00 31 41
@@ -7193,14 +7201,14 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 25
   nr_of_repetitions: 8
-  results { 
+  results {
     Staffetta_Maschile 02 27 42
     Staffetta_Maschile 02 43 08
   }
 }
 }
 
-  Ponte_di_Legno_2010_05_09 { 
+  Ponte_di_Legno_2010_05_09 {
   type: Circuito_Supermaster
   start_date: 2010-05-09
   name: Ponte_di_Legno
@@ -7208,7 +7216,7 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 25
   nr_of_repetitions: 4
-  results { 
+  results {
     Romani_Eugenia 01 45 27
   }
 
@@ -7216,13 +7224,13 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 25
   nr_of_repetitions: 2
-  results { 
+  results {
     Romani_Eugenia 00 54 23
   }
 }
 }
 
-  San_Marino_2010_03_07 { 
+  San_Marino_2010_03_07 {
   type: Circuito_Supermaster
   start_date: 2010-03-07
   name: San_Marino
@@ -7230,7 +7238,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 50
   nr_of_repetitions: 1
-  results { 
+  results {
     Romani_Eugenia 00 52 19
     Vignocchi_Roberto 00 37 26 [http://youtu.be/asfQOwrf0rc]
   }
@@ -7239,7 +7247,7 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 50
   nr_of_repetitions: 1
-  results { 
+  results {
     Vignocchi_Roberto 00 44 92 [http://youtu.be/PKbzgSS19nY]
   }
 
@@ -7247,7 +7255,7 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 50
   nr_of_repetitions: 4
-  results { 
+  results {
     Romani_Eugenia 03 46 79
   }
 }
@@ -7264,7 +7272,7 @@ Faenza_Imola_2010_02_06 {
      results {
        Romani_Eugenia 07 55 59
      }
-  } 
+  }
 
   race {
      discipline: DS
@@ -7273,7 +7281,7 @@ Faenza_Imola_2010_02_06 {
      results {
        Romani_Eugenia 00 53 84
      }
-  } 
+  }
  }
 
  San_Marino_2010_05_16 {
@@ -7284,7 +7292,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 50
   nr_of_repetitions: 1
-  results { 
+  results {
     Vignocchi_Roberto 00 44 03
   }
   }
@@ -7292,7 +7300,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 50
   nr_of_repetitions: 4
-  results { 
+  results {
     Vignocchi_Roberto 02 52 84 [http://youtu.be/NNHyBJzc1q0]
     Pivetti_Marco 02 43 54
   }
@@ -7301,7 +7309,7 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 50
   nr_of_repetitions: 4
-  results { 
+  results {
     Pivetti_Marco 03 04 14
   }
   }
@@ -7309,7 +7317,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 50
   nr_of_repetitions: 8
-  results { 
+  results {
     Vandelli_Imer 07 47 76
   }
   }
@@ -7317,7 +7325,7 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 50
   nr_of_repetitions: 1
-  results { 
+  results {
     Vandelli_Imer 00 50 90
   }
   }
@@ -7325,7 +7333,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 50
   nr_of_repetitions: 16
-  results { 
+  results {
     Ricco_Raffaele 11 11 96
   }
   }
@@ -7352,7 +7360,7 @@ Faenza_Imola_2010_02_06 {
      	     Campana_Daniele          41"34
 	     Vignocchi_Roberto         41"60
     }
-  }	     
+  }
   race {
      discipline: SL
      distance: 25
@@ -7397,7 +7405,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 50
   nr_of_repetitions: 16
-  results { 
+  results {
     Romani_Eugenia 13 59 20
   }
   }
@@ -7406,7 +7414,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DS
   distance: 50
   nr_of_repetitions: 2
-  results { 
+  results {
     Romani_Eugenia 01 52 44
   }
   }
@@ -7422,7 +7430,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 50
   nr_of_repetitions: 1
-  results { 
+  results {
     Romani_Eugenia 00 49 12
   }
   }
@@ -7431,7 +7439,7 @@ Faenza_Imola_2010_02_06 {
   discipline: RN
   distance: 50
   nr_of_repetitions: 1
-  results { 
+  results {
     Romani_Eugenia 00 56 29
   }
   }
@@ -7562,7 +7570,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 50
   nr_of_repetitions: 16
-  results { 
+  results {
     Romani_Eugenia 14 01 40
   }
   }
@@ -7571,7 +7579,7 @@ Faenza_Imola_2010_02_06 {
   discipline: MX
   distance: 50
   nr_of_repetitions: 4
-  results { 
+  results {
     Romani_Eugenia 03 46 40
   }
   }
@@ -7580,7 +7588,7 @@ Faenza_Imola_2010_02_06 {
   discipline: DF
   distance: 50
   nr_of_repetitions: 4
-  results { 
+  results {
     Romani_Eugenia 04 22 02
   }
   }
@@ -7595,7 +7603,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 50
   nr_of_repetitions: 16
-  results { 
+  results {
     Romani_Eugenia 14'09"90
     Pivetti_Marco 12'33"70
     Vignocchi_Roberto 13'06"50
@@ -7607,7 +7615,7 @@ Faenza_Imola_2010_02_06 {
   discipline: SL
   distance: 50
   nr_of_repetitions: 30
-  results { 
+  results {
     Romani_Eugenia 27'18"70
     Pivetti_Marco 24'24"60
     Vignocchi_Roberto 25'10"10
@@ -8279,7 +8287,7 @@ name: Bologna
   results {
     Romani_Eugenia  1'30"64
     Zaniboni_Massimo  1'24"68
-    Pivetti_Marco  1'11"87 [http://www.youtube.com/watch?v=hSBb_IAumwk]  
+    Pivetti_Marco  1'11"87 [http://www.youtube.com/watch?v=hSBb_IAumwk]
     Sangiorgi_Stefano  1'17"21 [http://www.youtube.com/watch?v=AGQ6du6apA4]
   }
   }
@@ -8306,7 +8314,7 @@ name: Bologna
   nr_of_repetitions: 4
   results {
     Pivetti_Marco  1'21"76
-    Vignocchi_Roberto  1'29"74 
+    Vignocchi_Roberto  1'29"74
     Sangiorgi_Stefano  1'40"77 [http://www.youtube.com/watch?v=sxzy9v_o-ss]
   }
   }
@@ -8363,7 +8371,7 @@ name: Molinella
   nr_of_repetitions: 8
   results {
     Vandelli_Imer  4'23"46
-  }		   
+  }
   }
 
   race {
@@ -8623,7 +8631,7 @@ name: Riccione
     Bertaina_Barbara  2'43"31
     Sangiorgi_Stefano  3'1"82
     Pivetti_Marco  2'47"20
-    Vignocchi_Roberto  2'48"16 
+    Vignocchi_Roberto  2'48"16
   }
   }
   race {
@@ -8737,7 +8745,7 @@ name: Ostia
   distance: 50
   nr_of_repetitions: 4
   results {
-    Pivetti_Marco 3'19"49    
+    Pivetti_Marco 3'19"49
   }
   }
 
@@ -8777,7 +8785,7 @@ name: Ostia
     Bertaina_Barbara 1'11"26
   }
   }
-} 
+}
 
 Verolanuova_2011_10_29 {
 type: Circuito_Supermaster
@@ -8806,7 +8814,7 @@ name: Verolanuova
   distance: 25
   nr_of_repetitions: 2
   results {
-    Vignocchi_Roberto 0'41"99 
+    Vignocchi_Roberto 0'41"99
     Serra_Antonio 0'43"74
     Vandelli_Imer 1'06"05
   }
@@ -8865,7 +8873,7 @@ name: Torino
   distance: 50
   nr_of_repetitions: 1
   results {
-    Patrimia_Marco 00 30 69    
+    Patrimia_Marco 00 30 69
   }
   }
 
@@ -9264,7 +9272,7 @@ name: Vignola
   race {
   discipline: DS
   distance: 25
-  nr_of_repetitions: 2		
+  nr_of_repetitions: 2
   results {
     Pellicciari_Sonia 00 44 88
     Serra_Antonio 00 43 23 [http://youtu.be/GndsIOCmVcg]
@@ -9275,7 +9283,7 @@ name: Vignola
   race {
   discipline: DF
   distance: 25
-  nr_of_repetitions: 1		
+  nr_of_repetitions: 1
   results {
     Agostino_Lavinia 00 18 58
     Mecenero_Fernando 00 21 50 [http://youtu.be/dd-Aa7YQeko]
@@ -9409,7 +9417,7 @@ name: Faenza_Imola
   discipline: RN
   distance: 25
   nr_of_repetitions: 4
-  results {		
+  results {
     Patrimia_Marco 01 06 92
     Angelucci_Francesco 01 16 59
   }
@@ -9418,7 +9426,7 @@ name: Faenza_Imola
   discipline: SL
   distance: 25
   nr_of_repetitions: 2
-  results {		
+  results {
     Serra_Antonio 00 32 33
   }
   }
@@ -10283,6 +10291,8 @@ name: Trieste
     Serra_Antonio 01 20 14
   }
   }
+
+  race {
   discipline: SL
   distance: 50
   nr_of_repetitions: 4
@@ -10290,7 +10300,8 @@ name: Trieste
     Bertoni_Stefano 02 22 62
   }
   }
-  discipline: SL
+  race {
+   discipline: SL
   distance: 50
   nr_of_repetitions: 8
   results {
@@ -10298,7 +10309,8 @@ name: Trieste
     Pivetti_Marco 05 52 31
   }
   }
-  discipline: SL
+  race {
+   discipline: SL
   distance: 50
   nr_of_repetitions: 16
   results {
@@ -10307,7 +10319,8 @@ name: Trieste
     Romani_Eugenia 14 04 87
   }
   }
-  discipline: DS
+  race {
+   discipline: DS
   distance: 50
   nr_of_repetitions: 1
   results {
@@ -10315,7 +10328,8 @@ name: Trieste
     Serra_Antonio 00 42 44
   }
   }
-  discipline: DS
+  race {
+   discipline: DS
   distance: 50
   nr_of_repetitions: 2
   results {
@@ -10323,7 +10337,8 @@ name: Trieste
     Serra_Antonio 01 33 23
   }
   }
-  discipline: RN
+  race {
+   discipline: RN
   distance: 50
   nr_of_repetitions: 1
   results {
@@ -10331,35 +10346,40 @@ name: Trieste
     Giovanardi_Manuela 00 37 84
   }
   }
-  discipline: RN
+  race {
+   discipline: RN
   distance: 50
   nr_of_repetitions: 2
   results {
     Giovanardi_Manuela 01 24 91
   }
   }
-  discipline: RN
+  race {
+   discipline: RN
   distance: 50
   nr_of_repetitions: 4
   results {
     Giovanardi_Manuela 03 06 76
   }
   }
-  discipline: DF
+  race {
+   discipline: DF
   distance: 50
   nr_of_repetitions: 1
   results {
     Montagnani_Simona 00 35 69
   }
   }
-  discipline: MX
+  race {
+   discipline: MX
   distance: 50
   nr_of_repetitions: 4
   results {
     Montagnani_Simona 03 12 31
   }
   }
-  discipline: MX
+  race {
+   discipline: MX
   distance: 50
   nr_of_repetitions: 8
   results {
@@ -10602,6 +10622,7 @@ name: Riccione
     Sangiorgi_Stefano 01 17 77
   }
   }
+  race {
   discipline: SL
   distance: 50
   nr_of_repetitions: 4
@@ -10610,14 +10631,16 @@ name: Riccione
     Forghieri_Paolo 02 33 50
   }
   }
-  discipline: SL
+  race {
+   discipline: SL
   distance: 50
   nr_of_repetitions: 8
   results {
     Bertoni_Stefano 05 10 96
   }
   }
-  discipline: SL
+  race {
+   discipline: SL
   distance: 50
   nr_of_repetitions: 16
   results {
@@ -10625,21 +10648,24 @@ name: Riccione
     Vignocchi_Roberto 12 47 34
   }
   }
-  discipline: DS
+  race {
+   discipline: DS
   distance: 50
   nr_of_repetitions: 1
   results {
     Serra_Antonio 00 43 75
   }
   }
-  discipline: DS
+  race {
+   discipline: DS
   distance: 50
   nr_of_repetitions: 2
   results {
     Serra_Antonio 01 34 80
   }
   }
-  discipline: DS
+  race {
+   discipline: DS
   distance: 50
   nr_of_repetitions: 4
   results {
@@ -10648,35 +10674,40 @@ name: Riccione
     Vignocchi_Roberto 03 24 99
   }
   }
-  discipline: DF
+  race {
+   discipline: DF
   distance: 50
   nr_of_repetitions: 4
   results {
     Vignocchi_Roberto 03 49 00
   }
   }
-  discipline: RN
+  race {
+   discipline: RN
   distance: 50
   nr_of_repetitions: 1
   results {
     Giovanardi_Manuela 00 39 01
   }
   }
-  discipline: RN
+  race {
+   discipline: RN
   distance: 50
   nr_of_repetitions: 2
   results {
     Giovanardi_Manuela 01 25 81
   }
   }
-  discipline: RN
+  race {
+   discipline: RN
   distance: 50
   nr_of_repetitions: 4
   results {
     Giovanardi_Manuela 03 11 24
   }
   }
-  discipline: MX
+  race {
+   discipline: MX
   distance: 50
   nr_of_repetitions: 4
   results {
@@ -10776,7 +10807,7 @@ name: Ravenna
 Faenza_Imola_2015_01_31 {
 type: Regionali
 start_date: 2015-01-31
-name: Faenza Imola
+name: Faenza_Imola
   race {
   discipline: SL
   distance: 25
@@ -10902,7 +10933,7 @@ name: Trento
 San_Marino_2015_06_05 {
 type: Italiani
 start_date: 2015-06-05
-name: San Marino
+name: San_Marino
   race {
   discipline: SL
   distance: 50
@@ -10933,7 +10964,7 @@ name: San Marino
   race {
   discipline: DF
   distance: 50
-  nr_of_repetitions: 1	
+  nr_of_repetitions: 1
   results {
     Vignocchi_Roberto 00 36 96
   }
@@ -11128,7 +11159,7 @@ name: Torino
   race {
   discipline: RN
   distance: 50
-  nr_of_repetitions: 
+  nr_of_repetitions:
   results {
     Salmi_Claudio 00 50 48
   }
@@ -11677,7 +11708,7 @@ name: Bologna
   results {
     Giovanardi_Manuela 00 39 83
   }
-  }  
+  }
   race {
   discipline: DS
   distance: 25
@@ -11685,7 +11716,7 @@ name: Bologna
   results {
     Serra_Antonio 03 28 51
   }
-  }  
+  }
   race {
   discipline: MX
   distance: 25
@@ -11693,7 +11724,7 @@ name: Bologna
   results {
     Dolzan_Marco 02 21 49
   }
-  } 
+  }
   race {
   discipline: SL
   distance: 25
@@ -11719,7 +11750,7 @@ name: Molinella
   results {
     Vandelli_Imer 08 14 11
   }
-  }  
+  }
   race {
   discipline: RN
   distance: 25
@@ -11741,7 +11772,7 @@ name: Civitanova
   results {
     Montagnani_Simona 00 38 63
   }
-  }  
+  }
   race {
   discipline: SL
   distance: 25
@@ -11757,7 +11788,7 @@ name: Civitanova
   results {
     Montagnani_Simona 01 36 60
   }
-  }  
+  }
   race {
   discipline: SL
   distance: 25
@@ -11765,13 +11796,13 @@ name: Civitanova
   results {
     Tosi_Andrea 01 16 04
   }
-  }  
+  }
 }
 
 San_Marino_2016_05_14 {
 type: Circuito_Supermaster
 start_date: 2016-05-14
-name: San Marino
+name: San_Marino
   race {
   discipline: SL
   distance: 50
@@ -11780,7 +11811,7 @@ name: San Marino
     Bruzzi_Rossano 12 48 35
     Tosi_Andrea 12 12 55
   }
-  }  
+  }
   race {
   discipline: MX
   distance: 50
@@ -11800,7 +11831,7 @@ name: San Marino
     Vian_Andrea 00 34 60
     Tosi_Andrea 00 33 43
   }
-  }  
+  }
   race {
   discipline: DS
   distance: 50
@@ -11863,7 +11894,7 @@ name: Treviso
 San_Marino_2016_06_03 {
 type: Italiani
 start_date: 2016-06-03
-name: San Marino
+name: San_Marino
   race {
   discipline: DS
   distance: 50
@@ -11888,14 +11919,16 @@ name: San Marino
     Serra_Antonio 03 02 21
   }
   }
-  discipline: DF
+  race {
+   discipline: DF
   distance: 50
   nr_of_repetitions: 1
   results {
     Zuccoli_Roberto 00 32 55
   }
   }
-  discipline: SL
+  race {
+   discipline: SL
   distance: 50
   nr_of_repetitions: 1
   results {
@@ -11955,7 +11988,7 @@ name: Milano
     Giovanardi_Manuela 21 59 80
     Montagnani_Simona 24 10 30
   }
-  }  
+  }
   race {
   discipline: SL
   distance: 50
@@ -11997,7 +12030,7 @@ name: Bologna
     Tosi_Andrea 00 32 80
     Zaniboni_Maurizio 00 34 70
   }
-  }  
+  }
   race {
   discipline: SL
   distance: 50
@@ -12009,7 +12042,7 @@ name: Bologna
     Serra_Antonio 01 23 10
     Tosi_Andrea 01 15 90
   }
-  }  
+  }
   race {
   discipline: DF
   distance: 50
@@ -12021,7 +12054,7 @@ name: Bologna
     Barillaro_Andrea 00 41 10
     Bertoni_Stefano 00 33 30
   }
-  }  
+  }
   race {
   discipline: RN
   distance: 50
@@ -12032,7 +12065,7 @@ name: Bologna
     Salmi_Claudio 00 51 20
     Vandelli_Imer 00 54 40
   }
-  }  
+  }
   race {
   discipline: MX
   distance: 50
@@ -12043,7 +12076,7 @@ name: Bologna
     Staffetta_Mista 02 26 50
     Staffetta_Mista 02 44 70
   }
-  } 
+  }
 }
 
 Riccione_2016_12_03 {
@@ -12363,7 +12396,7 @@ name: Riccione
   race {
   discipline: DF
   distance: 25
-  nr_of_repetitions: 2	
+  nr_of_repetitions: 2
   results {
     Mari_Francesco 00 35 19
     Sacchi_Marco 00 31 96
