@@ -155,6 +155,22 @@ athletes {
     subscribed: 1
   }
 
+  Tosi_Elena {
+    name: Elena
+    surname: Tosi
+    nickname:
+    birthday:
+    subscribed: 1
+  }
+
+  Forghieri_Paolo {
+    name: Paolo
+    surname: Forghieri
+    nickname:
+    birthday:
+    subscribed: 0
+  }
+
   Foroni_Jessica {
     name: Jessica
     surname: Foroni
@@ -1305,7 +1321,7 @@ athletes {
     surname: Poggi
     nickname: Saretta
     birthday: 
-    subscribed: 1
+    subscribed: 0
   }
 
   Carraroli_Pierluigi {
@@ -10255,18 +10271,10 @@ name: San_Marino
   }
 }
 
-Trieste_2013_07_07 {
+Trieste_2013_07_02 {
 type: Campionati_Italiani_FIN
-start_date: 2013-07-07
+start_date: 2013-07-02
 name: Trieste
-  race {
-  discipline: DS
-  distance: 50
-  nr_of_repetitions: 2
-  results {
-    Serra_Antonio 01 33 23
-  }
-  }
   race {
   discipline: SL
   distance: 50
@@ -10275,12 +10283,88 @@ name: Trieste
     Serra_Antonio 01 20 14
   }
   }
-  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Bertoni_Stefano 02 22 62
+  }
+  }
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Bertoni_Stefano 05 08 04
+    Pivetti_Marco 05 52 31
+  }
+  }
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Bertoni_Stefano 10 43 55
+    Pivetti_Marco 12 15 64
+    Romani_Eugenia 14 04 87
+  }
+  }
   discipline: DS
   distance: 50
   nr_of_repetitions: 1
   results {
+    Nora_Angela 00 42 79
     Serra_Antonio 00 42 44
+  }
+  }
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 01 36 95
+    Serra_Antonio 01 33 23
+  }
+  }
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 44 47
+    Giovanardi_Manuela 00 37 84
+  }
+  }
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 01 24 91
+  }
+  }
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Giovanardi_Manuela 03 06 76
+  }
+  }
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 35 69
+  }
+  }
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 03 12 31
+  }
+  }
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Romani_Eugenia 08 01 86
+    Pivetti_Marco 06 52 58
   }
   }
 }
@@ -10510,14 +10594,60 @@ type: Campionati_Italiani_FIN
 start_date: 2014-06-24
 name: Riccione
   race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Bertoni_Stefano 01 05 06
+    Sangiorgi_Stefano 01 17 77
+  }
+  }
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Bertoni_Stefano 02 24 81
+    Forghieri_Paolo 02 33 50
+  }
+  }
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Bertoni_Stefano 05 10 96
+  }
+  }
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Sangiorgi_Stefano 13 03 89
+    Vignocchi_Roberto 12 47 34
+  }
+  }
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Serra_Antonio 00 43 75
+  }
+  }
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Serra_Antonio 01 34 80
+  }
+  }
   discipline: DS
   distance: 50
   nr_of_repetitions: 4
   results {
+    Romani_Eugenia 03 57 47
+    Serra_Antonio 03 33 23
     Vignocchi_Roberto 03 24 99
   }
   }
-  race {
   discipline: DF
   distance: 50
   nr_of_repetitions: 4
@@ -10525,12 +10655,32 @@ name: Riccione
     Vignocchi_Roberto 03 49 00
   }
   }
-  race {
-  discipline: SL
+  discipline: RN
   distance: 50
-  nr_of_repetitions: 16
+  nr_of_repetitions: 1
   results {
-    Vignocchi_Roberto 12 47 34
+    Giovanardi_Manuela 00 39 01
+  }
+  }
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 01 25 81
+  }
+  }
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Giovanardi_Manuela 03 11 24
+  }
+  }
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Forghieri_Paolo 02 58 11
   }
   }
 }
@@ -10623,10 +10773,10 @@ name: Ravenna
   }
 }
 
-Faenza_2015_01_31 {
+Faenza_Imola_2015_01_31 {
 type: Regionali
 start_date: 2015-01-31
-name: Faenza
+name: Faenza Imola
   race {
   discipline: SL
   distance: 25
@@ -10641,6 +10791,22 @@ name: Faenza
   nr_of_repetitions: 8
   results {
     Vignocchi_Roberto 03 16 83
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vandelli_Imer 01 58 30
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Vandelli_Imer 01 36 63
   }
   }
 }
@@ -10736,13 +10902,23 @@ name: Trento
 San_Marino_2015_06_05 {
 type: Italiani
 start_date: 2015-06-05
-name: San_Marino
+name: San Marino
   race {
   discipline: SL
   distance: 50
   nr_of_repetitions: 16
   results {
     Vignocchi_Roberto 12 37 80
+    Pivetti_Marco 12 23 60
+    Serra_Antonio 13 33 18
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Serra_Antonio 01 35 41
   }
   }
   race {
@@ -10750,12 +10926,14 @@ name: San_Marino
   distance: 50
   nr_of_repetitions: 4
   results {
-    Vignocchi_Roberto 02 45 48}
+    Vignocchi_Roberto 02 45 48
+    Serra_Antonio 03 06 88
+  }
   }
   race {
   discipline: DF
   distance: 50
-  nr_of_repetitions: 1
+  nr_of_repetitions: 1	
   results {
     Vignocchi_Roberto 00 36 96
   }
@@ -10840,7 +11018,7 @@ name: Bologna
   race {
   discipline: SL
   distance: 25
-  nr_of_repetitions: 2
+  nr_of_repetitions: 4
   results {
     Vandelli_Imer 01 36 15
   }
@@ -10905,6 +11083,75 @@ name: Forli
   results {
     Mezzadri_Manuela 00 33 71
     Bertoni_Stefano 00 29 41
+  }
+  }
+}
+
+Torino_2015_11_28 {
+type: Italiani_Invernali
+start_date: 2015-11-28
+name: Torino
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Salmi_Claudio 01 56 45
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 02 52 97
+    Tosi_Andrea 02 49 29
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 01 38 65
+    Serra_Antonio 01 34 51
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Tosi_Elena 00 35 43
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 
+  results {
+    Salmi_Claudio 00 50 48
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Tosi_Elena 01 11 40
+    Barillaro_Andrea 01 11 63
+    Tosi_Andrea 01 16 15
+    Serra_Antonio 01 20 99
+    Nora_Angela 01 24 70
+  }
+  }
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 03 19 52
+    Barillaro_Andrea 03 14 22
   }
   }
 }
@@ -11180,6 +11427,28 @@ name: Bolzano
   nr_of_repetitions: 2
   results {
     Vignocchi_Roberto 00 40 49
+  }
+  }
+}
+
+Imola_2016_01_31 {
+type: Regionali
+start_date: 2016-01-31
+name: Imola
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vandelli_Imer 02 00 50
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vandelli_Imer 01 36 56
   }
   }
 }
@@ -11587,6 +11856,50 @@ name: Treviso
   nr_of_repetitions: 30
   results {
     Vian_Andrea 24 33 80
+  }
+  }
+}
+
+San_Marino_2016_06_03 {
+type: Italiani
+start_date: 2016-06-03
+name: San Marino
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Serra_Antonio 01 37 20
+  }
+  }
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 03 42 67
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 03 02 21
+  }
+  }
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Zuccoli_Roberto 00 32 55
+  }
+  }
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Zuccoli_Roberto 00 28 91
   }
   }
 }
@@ -12011,6 +12324,28 @@ name: Gussago
   }
 }
 
+Imola_2017_02_05 {
+type: Regionali
+start_date: 2017-02-05
+name: Imola
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vandelli_Imer 01 59 67
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vandelli_Imer 01 39 63
+  }
+  }
+}
+
 Riccione_2017_02_12 {
 type: Regionali_FIN
 start_date: 2017-02-12
@@ -12150,7 +12485,7 @@ name: Brescia
   race {
   discipline: RN
   distance: 50
-  nr_of_repetitions: 4
+  nr_of_repetitions: 2
   results {
     Nora_Angela 01 47 44
     Salmi_Claudio 01 56 02
