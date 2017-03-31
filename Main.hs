@@ -178,6 +178,9 @@ newId
        setState (c+1, s)
        currId
 
+parseInt :: DATParser Int
+parseInt = read <$> many1 digit
+
 symbolId :: String -> DATParser Id
 symbolId name
   = do (_, m) <- getState
@@ -252,21 +255,31 @@ from_DAT_to_DB
   id_sections subParser
     = do many (id_section subParser) <?> "section"
 
-  record :: String -> DATParser String
-  record name
+  recordInt :: String -> DATParser Int
+  recordInt name = do
+    recordLabel name
+    r <- parseInt
+    spaces
+    return r
+
+  recordLabel :: String -> DATParser ()
+  recordLabel name
     = do spaces
          pTry (string name) <?> ("Record " ++ show name ++ " is missing")
          char ':' <?> ("Record " ++ show name ++ " ':' separator is missing")
          many (char ' ')
+         return ()
+    
+  record :: String -> DATParser String
+  record name
+    = do recordLabel name 
          r <- manyTill anyChar nl <?> ("Record " ++ show name ++ " value is missing")
          spaces
          return r
 
   recordDate :: String -> DATParser UDate
   recordDate name
-    = do spaces
-         pTry (string name) <?> ("Record " ++ show name ++ " is missing")
-         char ':' <?> ("Record " ++ show name ++ " ':' separator is missing")
+    = do recordLabel name
          pTry readDate <|> readNullDate
    where
 
@@ -297,13 +310,13 @@ from_DAT_to_DB
   discipline_record
     = do name <- record "name"
          code <- record "code"
-         order <- record "ord"
+         order <- recordInt "ord"
          id <- currId
          return (Discipline { 
                    discipline_id = id,
                    discipline_name = name, 
                    discipline_code = code, 
-                   discipline_ord = read order 
+                   discipline_ord = order 
                             })
 
   team_athletes
@@ -372,12 +385,12 @@ from_DAT_to_DB
     = do disciplineType <- record "discipline"
          disciplineId <- symbolId disciplineType
 
-         distance <- record "distance"
-         nr_of_repetitions <- record "nr_of_repetitions"
+         distance <- recordInt "distance"
+         nr_of_repetitions <- recordInt "nr_of_repetitions"
 
          named_section "results" (many (result_record eventId disciplineId distance nr_of_repetitions))
 
-  result_record :: Int -> Int -> String -> String -> DATParser Race
+  result_record :: Int -> Int -> Int -> Int -> DATParser Race
   result_record eventId disciplineId distance nr_of_repetitions
      = do spaces
           athlete <- my_identifier
@@ -400,8 +413,8 @@ from_DAT_to_DB
           , race_athleteId = athleteId
           , race_eventId = eventId
           , race_disciplineId = disciplineId
-          , race_repetitionDistance = read distance
-          , race_nrOfRepetitions = read nr_of_repetitions
+          , race_repetitionDistance = distance
+          , race_nrOfRepetitions = nr_of_repetitions
           , race_milliseconds = time
           , race_note = ""
           , race_video = maybeVideoURL })

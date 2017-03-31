@@ -11200,7 +11200,7 @@ name: Torino
   race {
   discipline: RN
   distance: 50
-  nr_of_repetitions:
+  nr_of_repetitions: 1
   results {
     Salmi_Claudio 00 50 48
   }
