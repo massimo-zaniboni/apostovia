@@ -10988,7 +10988,10 @@ name: Riccione
   distance: 50
   nr_of_repetitions: 4
   results {
-    Vignocchi_Roberto 02 45 64}
+    Serra_Antonio 03 01 06
+    Pivetti_Marco 02 46 85
+    Vignocchi_Roberto 02 45 64 [https://youtu.be/09abhFCGWqM]
+  }
   }
   race {
   discipline: DF
@@ -10996,6 +10999,44 @@ name: Riccione
   nr_of_repetitions: 1
   results {
     Vignocchi_Roberto 00 36 17
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Barbieri_Matteo 00 39 55
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Pivetti_Marco 03 37 16
+  }
+  }
+}
+
+Kazan_2015_08_10 {
+type: Campionati_Mondiali
+start_date: 2015-08-10
+name: Kazan
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Montagnani_Simona 07 08 60
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Nora_Angela 13 11 03
   }
   }
 }
@@ -12575,7 +12616,7 @@ name: Bologna
   nr_of_repetitions: 2
   results {
     De_Biasio_Silvia 01 17 05
-    Vignocchi_Roberto 01 12 19
+    Vignocchi_Roberto 01 12 19 [https://youtu.be/Subx11vV4Rk]
     Vian_Andrea 01 18 71
     Vandelli_Imer 01 39 46
   }
@@ -12597,7 +12638,7 @@ name: Bologna
   nr_of_repetitions: 4
   results {
     Contini_Carlo 03 27 03
-    Vignocchi_Roberto 03 16 23
+    Vignocchi_Roberto 03 16 23 [https://youtu.be/5_f2dEzqwtc]
   }
   }
   race {
