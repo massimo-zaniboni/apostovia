@@ -4527,7 +4527,7 @@ events {
     race {
       discipline: MX
       distance: 50
-      nr_of_repetitions: 8
+      nr_of_repetitions: 4
       results {
            Staffetta_Mista 03'10''91
        }
@@ -12712,7 +12712,7 @@ name: San_Marino
   race {
   discipline: SL
   distance: 50
-  nr_of_repetitions: 8
+  nr_of_repetitions: 16
   results {
     Bruzzi_Rossano 12 48 35
     Tosi_Andrea 12 12 55
