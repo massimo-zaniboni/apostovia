@@ -10995,7 +10995,7 @@ name: Riccione
   distance: 25
   nr_of_repetitions: 60
   results {
-    Pivetti Marco 23 21 66
+    Pivetti_Marco 23 21 66
   }
   }
   race {
@@ -11012,7 +11012,7 @@ name: Riccione
   distance: 25
   nr_of_repetitions: 8
   results {
-    Pivetti Marco 03 08 80
+    Pivetti_Marco 03 08 80
   }
   }
 }
