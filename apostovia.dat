@@ -4570,7 +4570,7 @@ events {
         Romani_Eugenia 1'38''00
         Beghini_Simona 1'41''96
         Messerotti_Francesco 1'18''01
-        Vignocchi_Roberto  1'16''48
+        Vignocchi_Roberto  1'16''48 [https://youtu.be/mmt1WWQNy2M]
         Dugoni_Marco 1'23''79
       }
     }
@@ -11024,7 +11024,7 @@ name: Brescia
   race {
   discipline: RN
   distance: 50
-  nr_of_repetitions: 2
+  nr_of_repetitions: 1
   results {
     Giovanardi_Manuela 00 37 28
   }
@@ -11032,7 +11032,7 @@ name: Brescia
   race {
   discipline: SL
   distance: 50
-  nr_of_repetitions: 2
+  nr_of_repetitions: 1
   results {
     Giovanardi_Manuela 00 33 03
   }
@@ -11461,7 +11461,7 @@ name: Pesaro
   distance: 50
   nr_of_repetitions: 4
   results {
-    Vignocchi_Roberto 03 16 63
+    Vignocchi_Roberto 03 16 63 [https://youtu.be/39kei32WBa4]
   }
   }
   race {
@@ -11580,11 +11580,37 @@ name: Riccione
   }
   }
 }
-
+  
 Bologna_2014_11_09 {
 type: Circuito_Supermaster
 start_date: 2014-11-09
 name: Bologna
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vandelli_Imer 01 36 59
+    Serra_Antonio 01 22 62
+    Vignocchi_Roberto 01 15 01
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Vandelli_Imer 00 55 02
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Serra_Antonio 00 42 92
+  }
+  }
   race {
   discipline: DF
   distance: 25
@@ -11593,12 +11619,106 @@ name: Bologna
     Vignocchi_Roberto 00 36 59
   }
   }
+}
+  
+Vicenza_2014_11_15 {
+type: Circuito_Supermaster
+start_date: 2014-11-15
+name: Vicenza
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Serra_Antonio 03 30 25
+  }
+  }
+}
+  
+Forli_2014_11_23 {
+type: Circuito_Supermaster
+start_date: 2014-11-23
+name: Forli
   race {
   discipline: SL
   distance: 25
+  nr_of_repetitions: 16
+  results {
+    Mezzadri_Manuela 05 36 61
+    Foroni_Jessica 05 52 44
+    Montaruli_Maria_Elena 06 15 01
+    Nora_Angela 06 19 48
+    Cappelli_Stefano 05 25 57
+    Tosi_Andrea 05 47 59
+    Vian_Andrea 06 17 15
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
   nr_of_repetitions: 4
   results {
-    Vignocchi_Roberto 01 15 01
+    Poggi_Sarah 01 46 35
+    Foroni_Jessica 01 33 90
+    Giovanardi_Manuela 01 19 20
+    Cappelli_Stefano 01 20 68
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Montaruli_Maria_Elena 01 37 19
+    Nora_Angela 01 41 65
+    Silvestrini_Massimo 01 36 70
+    Vandelli_Imer 02 01 68
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Poggi_Sarah 00 46 73
+    Mezzadri_Manuela 00 35 56
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Giovanardi_Manuela 02 37 23
+    Silvestrini_Massimo 03 07 43
+    Vandelli_Imer 03 37 99
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 01 37 33
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Gatti_Maria_Giulia 00 40 99
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Gatti_Maria_Giulia 00 36 46
+    Tosi_Andrea 00 32 96
+    Serra_Antonio 00 34 16
+    Vian_Andrea 00 36 67
   }
   }
 }
@@ -11624,11 +11744,128 @@ name: Livorno
   }
   }
 }
-
+  
+Riccione_2014_12_07 {
+type: Circuito_Supermaster
+start_date: 2014-12-07
+name: Riccione
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 30
+  results {
+    Bettati_Matteo 20 38 78
+    Tosi_Andrea 23 08 70
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Barbieri_Matteo 02 48 42
+    Silvestrini_Massimo 03 09 92
+    Serra_Antonio 03 03 06
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Poggi_Sarah 00 47 04
+    Montagnani_Simona 00 38 71
+    Sacchi_Marco 00 33 16
+    Masini_Marzio 00 32 25
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 01 25 14
+    Silvestrini_Massimo 01 35 30
+    Cassanelli_Armando 01 39 50
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Poggi_Sarah 00 47 69
+    Giovanardi_Manuela 00 37 48
+    Nora_Angela 00 43 85
+    Serra_Antonio 00 42 60
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Sacchi_Marco 01 04 19
+    Masini_Marzio 01 09 97
+    Cassanelli_Armando 01 25 37
+  }
+  }
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Staffetta_Mista 02 32 31
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Montagnani_Simona 12 49 01
+    Nora_Angela 13 15 79
+    Vian_Andrea 13 37 03
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Bertoni_Stefano 05 12 81
+  }
+  }
+}
+  
 Parma_2014_12_14 {
 type: Circuito_Supermaster
 start_date: 2014-12-14
 name: Parma
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Bettati_Matteo 05 05 07
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Serra_Antonio 00 41 55
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 01 20 65
+  }
+  }
   race {
   discipline: DF
   distance: 25
@@ -11646,7 +11883,7 @@ name: Parma
   }
   }
 }
-
+  
 Ravenna_2015_01_17 {
 type: Circuito_Supermaster
 start_date: 2015-01-17
@@ -11657,6 +11894,7 @@ name: Ravenna
   nr_of_repetitions: 8
   results {
     Vignocchi_Roberto 06 13 05
+    Pivetti_Marco 06 03 75
   }
   }
   race {
@@ -11665,6 +11903,84 @@ name: Ravenna
   nr_of_repetitions: 2
   results {
     Vignocchi_Roberto 01 34 01
+    Serra_Antonio 01 34 92
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Pivetti_Marco 01 29 56
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Serra_Antonio 00 36 54
+  }
+  }
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Masini_Marzio 02 51 47
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Montaruli_Maria_Elena 01 19 75
+    Barbieri_Matteo 01 12 68
+    Barillaro_Andrea 01 13 81
+    Tosi_Andrea 01 17 04
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 01 43 06
+    Barbieri_Matteo 01 28 00
+    Silvestrini_Massimo 01 37 68
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Poggi_Sarah 00 48 26
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Poggi_Sarah 00 49 81
+    Montagnani_Simona 00 46 35
+    Sacchi_Marco 00 34 29
+    Masini_Marzio 00 38 69
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montaruli_Maria_Elena 03 03 02
+    Montagnani_Simona 02 56 00
+    Nora_Angela 03 06 25
+    Silvestrini_Massimo 03 10 54
+    Barillaro_Andrea 02 43 93
+    Tosi_Andrea 02 51 04
   }
   }
 }
@@ -11706,16 +12022,108 @@ name: Faenza_Imola
   }
   }
 }
-
-Riccione_2015_02_22 {
-type: Regionali_FIN
-start_date: 2015-02-22
+  
+Riccione_2015_02_15 {
+type: Circuito_Supermaster
+start_date: 2015-02-15
 name: Riccione
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 32
+  results {
+    Foroni_Jessica 12 05 18
+    Cappelli_Stefano 11 25 88
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Barbieri_Matteo 00 38 38
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 01 30 17
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Mezzadri_Manuela 01 36 86
+    Montagnani_Simona 01 31 08
+    Pivetti_Marco 01 26 87
+    Bertoni_Stefano 01 15 32
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Bertoni_Stefano 00 29 85
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Giovanardi_Manuela 01 19 62
+    Montagnani_Simona 01 27 80
+    Nora_Angela 01 35 36
+    Barillaro_Andrea 01 24 89
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Mezzadri_Manuela 02 36 77
+    Pivetti_Marco 02 42 42
+    Barillaro_Andrea 02 38 32
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 00 36 44
+    Nora_Angela 00 42 40
+    Serra_Antonio 00 40 98
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Poggi_Sarah 00 48 35
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Poggi_Sarah 01 52 37
+  }
+  }
   race {
   discipline: SL
   distance: 25
   nr_of_repetitions: 60
   results {
+    Bettati_Matteo 19 58 79
     Vignocchi_Roberto 23 16 55
   }
   }
@@ -11724,7 +12132,7 @@ name: Riccione
   distance: 25
   nr_of_repetitions: 8
   results {
-    Vignocchi_Roberto 03 11 55
+    Vignocchi_Roberto 03 11 55 [https://youtu.be/n3BGbvu97Mk]
   }
   }
 }
@@ -11761,6 +12169,19 @@ name: Bologna
   nr_of_repetitions: 2
   results {
     Vignocchi_Roberto 00 43 37
+    Poggi_Sarah 00 50 79
+    Nora_Angela 00 45 17
+    Serra_Antonio 00 45 94
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Dolzan_Marco 00 56 52
+    Pivetti_Marco 01 13 96
+    Silvestrini_Massimo 01 22 06
   }
   }
   race {
@@ -11769,14 +12190,42 @@ name: Bologna
   nr_of_repetitions: 8
   results {
     Vignocchi_Roberto 03 21 19
+    Nora_Angela 03 32 64
+    Serra_Antonio 03 24 95
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Poggi_Sarah 03 29 42
+    Dolzan_Marco 02 22 31
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Pivetti_Marco 01 26 67
   }
   }
 }
 
-Trento_2015_04_19 {
+Trento_2015_04_18 {
 type: Circuito_Supermaster
-start_date: 2015-04-19
+start_date: 2015-04-18
 name: Trento
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vignocchi_Roberto 01 30 67
+    Serra_Antonio 01 34 67
+  }
+  }
   race {
   discipline: DF
   distance: 25
@@ -11786,11 +12235,153 @@ name: Trento
   }
   }
   race {
-  discipline: DS
+  discipline: RN
   distance: 25
   nr_of_repetitions: 4
   results {
-    Vignocchi_Roberto 01 30 67
+    Nora_Angela 01 40 69
+    Cassanelli_Armando 01 36 47
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Barillaro_Andrea 01 24 60
+    Cassanelli_Armando 01 39 45
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Mezzadri_Manuela 00 33 22
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 00 36 22
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 00 39 17
+    Montagnani_Simona 00 46 90
+    Nora_Angela 00 45 37
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Mezzadri_Manuela 01 12 76
+    Barillaro_Andrea 01 11 02
+  }
+  }
+}
+  
+San_Marino_2015_05_09 {
+type: Circuito_Supermaster
+start_date: 2015-05-09
+name: San_Marino
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Montagnani_Simona 12 38 63
+    Nora_Angela 13 23 82
+    Bertoni_Stefano 10 49 88
+    Tosi_Andrea 12 20 12
+    Vian_Andrea 13 00 63
+  }
+  }
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 03 20 84
+    Barillaro_Andrea 03 15 50
+    Staffetta_Maschile 02 32 03
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Cassanelli_Armando 00 37 27
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 43 35
+    Serra_Antonio 00 42 99
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Pivetti_Marco 02 48 67
+    Barillaro_Andrea 02 42 77
+    Serra_Antonio 03 02 95
+    Cassanelli_Armando 03 17 74
+  }
+  }
+}
+  
+Treviso_2015_05_22 {
+type: Circuito_Supermaster
+start_date: 2015-05-22
+name: Treviso
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Montagnani_Simona 07 04 84
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 03 06 18
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Gatti_Maria_Giulia 13 09 00
+    Nora_Angela 13 17 00
+    Tosi_Andrea 12 18 00
+    Serra_Antonio 13 35 10
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 30
+  results {
+    Vian_Andrea 25 08 70
   }
   }
 }
@@ -12259,7 +12850,7 @@ name: Ravenna
   nr_of_repetitions: 2
   results {
     Gatti_Maria_Giulia 01 30 89
-    Vignocchi_Roberto 01 32 66
+    Vignocchi_Roberto 01 32 66 [https://youtu.be/WTIX32Vqa00]
     Serra_Antonio 01 36 07
   }
   }
@@ -12277,7 +12868,7 @@ name: Ravenna
   nr_of_repetitions: 1
   results {
     Dolzan_Marco 00 27 03
-    Vignocchi_Roberto 00 33 07
+    Vignocchi_Roberto 00 33 07 [https://youtu.be/b9QS8LE0F3Q]
     Vian_Andrea 00 34 91
     Salmi_Claudio 00 46 69
   }
@@ -12355,7 +12946,7 @@ name: Bolzano
   distance: 25
   nr_of_repetitions: 2
   results {
-    Vignocchi_Roberto 00 34 01
+    Vignocchi_Roberto 00 34 01 [https://youtu.be/BGWnsIjD3sQ]
   }
   }
   race {
@@ -12363,7 +12954,7 @@ name: Bolzano
   distance: 25
   nr_of_repetitions: 2
   results {
-    Vignocchi_Roberto 00 40 49
+    Vignocchi_Roberto 00 40 49 [https://youtu.be/9T84oT4cTzY]
   }
   }
 }
@@ -12931,7 +13522,7 @@ name: Bologna
   nr_of_repetitions: 1
   results {
     Vignocchi_Roberto 00 32 10
-    Santi_Marinella 00 38 80
+    Santi_Marinella 00 38 80 [https://youtu.be/V_9DTqZ81rM]
     Ismail_Anna 00 45 00
     Tosi_Andrea 00 32 80
     Zaniboni_Maurizio 00 34 70
@@ -13557,7 +14148,7 @@ name: Lugo
   distance: 25
   nr_of_repetitions: 4
   results {
-    Santi_Marinella 01 33 50
+    Santi_Marinella 01 33 50 [https://youtu.be/CEQg_xtxuUk]
   }
   }
   race {
@@ -13566,7 +14157,7 @@ name: Lugo
   nr_of_repetitions: 2
   results {
     Santi_Marinella 00 48 62
-    Vignocchi_Roberto 00 41 70
+    Vignocchi_Roberto 00 41 70 [https://youtu.be/OZiBzdrpNFI]
   }
   }
   race {
