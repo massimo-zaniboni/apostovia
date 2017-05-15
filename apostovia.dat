@@ -176,6 +176,14 @@ athletes {
     birthday:
     subscribed: 1
   }
+  
+  Mazzeo_Patrizia {
+    name: Patrizia
+    surname: Mazzeo
+    nickname:
+    birthday:
+    subscribed: 1
+  }
 
   Bruzzi_Rossano {
     name: Rossano
@@ -221,7 +229,7 @@ athletes {
   Foroni_Jessica {
     name: Jessica
     surname: Foroni
-    nickname: Jessi
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -229,7 +237,7 @@ athletes {
   Giovanardi_Manuela {
     name: Manuela
     surname: Giovanardi
-    nickname: ManuG
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -237,7 +245,7 @@ athletes {
   Mezzadri_Manuela {
     name: Manuela
     surname: Mezzadri
-    nickname: ManuM
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -245,7 +253,7 @@ athletes {
   Montagnani_Simona {
     name: Simona
     surname: Montagnani
-    nickname: Simo
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -269,7 +277,7 @@ athletes {
   Barillaro_Andrea {
     name: Andrea
     surname: Barillaro
-    nickname: Barilla
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -277,7 +285,7 @@ athletes {
   Bertoni_Stefano {
     name: Stefano
     surname: Bertoni
-    nickname: Berto
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -285,7 +293,7 @@ athletes {
   Cappelli_Stefano {
     name: Stefano
     surname: Cappelli
-    nickname: Kappa
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -421,7 +429,7 @@ athletes {
   Barbieri_Ruggero {
     name: Ruggero
     surname: Barbieri
-    nickname: Rugge
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -493,7 +501,7 @@ athletes {
   Di_Foggia_Anna {
     name: Anna
     surname: Di_Foggia
-    nickname: Annina
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -501,7 +509,7 @@ athletes {
   Gherardi_Gabriele {
     name: Gabriele
     surname: Gherardi
-    nickname: Gaba
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -518,7 +526,7 @@ athletes {
   Beghini_Simona {
     name: Simona
     surname: Beghini
-    nickname: Simo
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -534,7 +542,7 @@ athletes {
   Benatti_Paola {
     name: Paola
     surname: Benatti
-    nickname: Zia
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -558,7 +566,7 @@ athletes {
   Bonfreschi_Paola {
     name: Paola
     surname: Bonfreschi
-    nickname: Paolina
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -590,7 +598,7 @@ athletes {
   Corvino_Veronica {
     name: Veronica
     surname: Corvino
-    nickname: Vero
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -598,7 +606,7 @@ athletes {
   Fava_Federica {
     name: Federica
     surname: Fava
-    nickname: Fede
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -606,7 +614,7 @@ athletes {
   Fraggeri_Matteo {
     name: Matteo
     surname: Fraggeri
-    nickname: Schizzo
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -614,7 +622,7 @@ athletes {
   Francia_Paolo {
     name: Paolo
     surname: Francia
-    nickname: Jesus
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -622,7 +630,7 @@ athletes {
   Galloni_Angiolina {
     name: Angiolina
     surname: Galloni
-    nickname: Angela
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -654,7 +662,7 @@ athletes {
   Guerzoni_Matteo {
     name: Matteo
     surname: Guerzoni
-    nickname: Fragola
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -678,7 +686,7 @@ athletes {
   Masini_Marika {
     name: Marika
     surname: Masini
-    nickname: Marika
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -710,7 +718,7 @@ athletes {
   Modena_Fabio {
     name: Fabio
     surname: Modena
-    nickname: Scheggia
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -718,7 +726,7 @@ athletes {
   Montemarano_Sara {
     name: Sara
     surname: Montemarano
-    nickname: Saretta
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -782,7 +790,7 @@ athletes {
   Pigoni_Patrizia {
     name: Patrizia
     surname: Pigoni
-    nickname: Pigo
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -790,7 +798,7 @@ athletes {
   Pivetti_Marco {
     name: Marco
     surname: Pivetti
-    nickname: Piva
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -798,7 +806,7 @@ athletes {
   Poli_Maria_Pia {
     name: Maria_Pia
     surname: Poli
-    nickname: Pia
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -830,7 +838,7 @@ athletes {
   Sangiorgi_Stefano {
     name: Stefano
     surname: Sangiorgi
-    nickname: Direttore
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -846,7 +854,7 @@ athletes {
   Scianti_Andrea {
     name: Andrea
     surname: Scianti
-    nickname: Coach
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -862,7 +870,7 @@ athletes {
   Serra_Antonio {
     name: Antonio
     surname: Serra
-    nickname: Antoine
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -894,7 +902,7 @@ athletes {
   Vignocchi_Roberto {
     name: Roberto
     surname: Vignocchi
-    nickname: Robby
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -910,7 +918,7 @@ athletes {
   Zaniboni_Massimo {
     name: Massimo
     surname: Zaniboni
-    nickname: Massi
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -918,7 +926,7 @@ athletes {
   Zaniboni_Maurizio {
     name: Maurizio
     surname: Zaniboni
-    nickname: Mauri
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -942,7 +950,7 @@ athletes {
   Zivieri_Luca {
     name: Luca
     surname: Zivieri
-    nickname: Bazooka
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -982,7 +990,7 @@ athletes {
   Romani_Eugenia {
     name: Eugenia
     surname: Romani
-    nickname: Eugi
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -998,7 +1006,7 @@ athletes {
   Ambra_Riccardo {
     name: Riccardo
     surname: Ambra
-    nickname: Rikky
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -1006,7 +1014,7 @@ athletes {
   Verde_Alessandro {
     name: Alessandro
     surname: Verde
-    nickname: Green
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1030,7 +1038,7 @@ athletes {
   Meloni_Giacomo {
     name: Giacomo
     surname: Meloni
-    nickname: Jack
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1038,7 +1046,7 @@ athletes {
   Messerotti_Francesco {
     name: Francesco
     surname: Messerotti
-    nickname: Chicco
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1054,7 +1062,7 @@ athletes {
   Salvo_Stefano {
     name: Stefano
     surname: Salvo
-    nickname: Cisti
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1102,7 +1110,7 @@ athletes {
   Vandelli_Imer {
     name: Imer
     surname: Vandelli
-    nickname: Imer
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -1150,7 +1158,7 @@ athletes {
   Silvestrini_Massimo {
     name: Massimo
     surname: Silvestrini
-    nickname: Pen
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1166,7 +1174,7 @@ athletes {
   Scrivani_Maria_Teresa {
     name: Maria_Teresa
     surname: Scrivani
-    nickname: Terry
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1190,7 +1198,7 @@ athletes {
   Ricco_Raffaele {
     name: Raffaele
     surname: Ricco`
-    nickname: Raffa Jr
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1198,7 +1206,7 @@ athletes {
   Gambigliani_Zoccoli_Raffaele {
     name: Raffaele
     surname: Gambigliani_Zoccoli
-    nickname: Girino
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -1238,7 +1246,7 @@ athletes {
   Ferrandes_Matteo {
     name: Matteo
     surname: Ferrandes
-    nickname: Matte
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1254,7 +1262,7 @@ athletes {
   Candito_Alessandro {
     name: Alessandro
     surname: Candito
-    nickname: Candy
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -1310,7 +1318,7 @@ athletes {
   Camellini_Marco {
     name: Marco
     surname: Camellini
-    nickname: Cammello
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1334,7 +1342,7 @@ athletes {
   Grandi_Riccardo {
     name: Riccardo
     surname: Grandi
-    nickname: Ric
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1358,7 +1366,7 @@ athletes {
   Agostino_Lavinia {
     name: Lavinia
     surname: Agostino
-    nickname: Lavi
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1366,7 +1374,7 @@ athletes {
   Poggi_Sarah {
     name: Sarah
     surname: Poggi
-    nickname: Saretta
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -1374,7 +1382,7 @@ athletes {
   Carraroli_Pierluigi {
     name: Pierluigi
     surname: Carraroli
-    nickname: Piero
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -1382,7 +1390,7 @@ athletes {
   Santi_Marinella {
     name: Marinella
     surname: Santi
-    nickname: Mari
+    nickname:
     birthday:
     subscribed: 1
   }
@@ -14166,6 +14174,87 @@ name: Lugo
   nr_of_repetitions: 2
   results {
     Vignocchi_Roberto 00 40 21
+  }
+  }
+}
+
+Molinella_2017_04_22 {
+type: Circuito_Supermaster
+start_date: 2017-04-22
+name: Molinella
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Vandelli_Imer 04 23 74
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Vandelli_Imer 01 11 40
+  }
+  }
+}
+
+San_Marino_2017_05_13 {
+type: Circuito_Supermaster
+start_date: 2017-05-13
+name: San_Marino
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Mazzeo_Patrizia 13 48 35
+    Bruzzi_Rossano 12 58 17
+    Vian_Andrea 13 22 34
+    Salmi_Claudio 16 19 01
+    Tosi_Andrea 12 10 81
+  }
+  }
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 03 22 93
+    Barillaro_Andrea 03 11 08
+    Staffetta_Maschile 02 35 57 [https://youtu.be/Y19ywpfn7Yw]
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Loschi_Ilaria 00 37 30
+    Montagnani_Simona 00 35 99
+    Vignocchi_Roberto 00 31 77 [https://youtu.be/qqyI_ibE7qA]
+    Salmi_Claudio 00 41 97
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Vignocchi_Roberto 00 43 15
+    Serra_Antonio 00 43 94
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Loschi_Ilaria 03 01 64
+    Barillaro_Andrea 02 38 35
+    Serra_Antonio 03 01 07
+    Tosi_Andrea 02 52 59
   }
   }
 }
