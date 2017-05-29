@@ -27,6 +27,10 @@ event_type {
    Regionali {
      name: Regionali UISP
    }
+   
+   Trofeo_UISP {
+     name: Trofeo UISP
+   }
 
   CSI_Regionale {
      name: CSI Regionale
@@ -638,7 +642,7 @@ athletes {
   Gnoli_Emanuele {
     name: Emanuele
     surname: Gnoli
-    nickname: Gnomo
+    nickname:
     birthday:
     subscribed: 0
   }
@@ -686,14 +690,6 @@ athletes {
   Masini_Marika {
     name: Marika
     surname: Masini
-    nickname:
-    birthday:
-    subscribed: 0
-  }
-
-  Mazzeo_Patrizia {
-    name: Patrizia
-    surname: Mazzeo
     nickname:
     birthday:
     subscribed: 0
@@ -14257,5 +14253,113 @@ name: San_Marino
     Tosi_Andrea 02 52 59
   }
   }
+}
+
+Treviso_2017_05_19 {
+type: Circuito_Supermaster
+start_date: 2017-05-19
+name: Treviso
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 30
+  results {
+    Vian_Andrea 25 30 00
+  }
+  }
+}
+
+Reggio Emilia_2017_05_28 {
+type: Trofeo_UISP
+start_date: 2017-05-28
+name: 1°Trofeo Master Mind
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Loschi_Ilaria 02 57 04
+    Foroni_Jessica 02 58 05
+    Santi_Marinella 03 12 24
+    Mazzeo_Patrizia 03 17 82
+    Bruzzi_Rossano 02 57 14
+    Barillaro_Andrea 02 39 81
+    Montagnani_Simona 02 56 11
+    Vian_Andrea 02 58 48
+    Serra_Antonio 03 04 64
+    Vandelli_Imer 03 56 01
+    Tosi_Andrea 02 48 43
+    Staffetta_Maschile 02 32 60
+    Staffetta_Maschile 02 11 84
+    Staffetta_Femminile 02 33 16 [https://youtu.be/i4cTEbS3xG4]
+  }
+  }  
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Cappelli_Stefano 03 16 57
+    Barillaro_Andrea 03 14 85
+    Vignocchi_Roberto 03 19 11
+    Staffetta_Mista 02 56 18
+    Staffetta_Mista 02 48 00
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Loschi_Ilaria 00 36 64
+    Cappelli_Stefano 00 33 75
+    Foroni_Jessica 00 37 13
+    Mazzeo_Patrizia 00 41 19
+    Bruzzi_Rossano 00 38 50
+    Vian_Andrea 00 36 87
+    Serra_Antonio 00 36 47
+    Vandelli_Imer 00 46 03
+    Salmi_Claudio 00 42 55
+    Tosi_Andrea 00 33 58
+  }
+  } 
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Santi_Marinella 01 43 23
+    Vignocchi_Roberto 01 35 42
+    Montagnani_Simona 01 41 92
+    Nora_Angela 01 44 65
+    Serra_Antonio 01 44 02
+    Beccari_Graziella 02 30 90
+  }
+  } 
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Foroni_Jessica 01 47 78
+    Nora_Angela 01 52 60
+    Vandelli_Imer 02 08 41
+    Salmi_Claudio 02 01 17
+  }
+  } 
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Santi_Marinella 00 46 04
+    Vignocchi_Roberto 00 33 72
+    Montagnani_Simona 00 38 52
+    Mazzeo_Patrizia 00 54 62
+    Bruzzi_Rossano 00 47 78
+    Barillaro_Andrea 00 39 29
+    Cappelli_Stefano 00 36 56
+  }
+  } 
 }
 }
