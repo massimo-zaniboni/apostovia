@@ -14272,7 +14272,7 @@ name: Treviso
 Reggio_Emilia_2017_05_28 {
 type: Trofeo_UISP
 start_date: 2017-05-28
-name: 1°Trofeo Master Mind
+name: Trofeo Master Mind
   race {
   discipline: SL
   distance: 50
@@ -14359,6 +14359,54 @@ name: 1°Trofeo Master Mind
     Bruzzi_Rossano 00 47 78
     Barillaro_Andrea 00 39 29
     Cappelli_Stefano 00 36 56
+  }
+  } 
+}
+
+Riccione_2017_06_27 {
+type: Campionati_Italiani_FIN
+start_date: 2017-06-27
+name: Riccione
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Vignocchi_Roberto 02 44 02 [https://youtu.be/80fMkoA4Bt4]
+    Santi_Marinella 03 06 40 [https://youtu.be/OT3mJUGhUz4]
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 35 19
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Santi_Marinella 01 22 93
+    Vignocchi_Roberto 01 12 79
+  }
+  }  
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 01 41 03
+  }
+  } 
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Vignocchi_Roberto 00 34 58 [https://youtu.be/ps6HmAdhxMQ]
   }
   } 
 }
