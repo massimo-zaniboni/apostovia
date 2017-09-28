@@ -14410,4 +14410,76 @@ name: Riccione
   }
   } 
 }
+
+Budapest_2017_08_14 {
+type: Campionati_Mondiali
+start_date: 2017-08-14
+name: Budapest
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Montagnani_Simona 12 46 68
+    Nora_Angela 13 03 23
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 01 40 11
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 03 27 06
+    Nora_Angela 03 43 99
+  }
+  }  
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 01 47 31
+  }
+  } 
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Nora_Angela 03 52 18
+  }
+  } 
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 37 75
+  }
+  }  
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 03 37 11
+  }
+  }    
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Montagnani_Simona 07 09 84
+  }
+  }  
+}
 }
