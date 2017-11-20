@@ -146,7 +146,7 @@ athletes {
     surname: Beccari
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
 
   Zacchi_Francesco {
@@ -162,7 +162,7 @@ athletes {
     surname: Cassanelli
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
   
   Affronte_Marco {
@@ -170,7 +170,7 @@ athletes {
     surname: Affronte
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
 
   Zuccoli_Roberto {
@@ -363,7 +363,7 @@ athletes {
     surname: Masini
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
 
   Sacchi_Marco {
@@ -852,7 +852,7 @@ athletes {
     surname: Scianti
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
 
   Serafini_Luca {
@@ -1196,7 +1196,7 @@ athletes {
     surname: Ricco`
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
 
   Gambigliani_Zoccoli_Raffaele {
@@ -1260,7 +1260,7 @@ athletes {
     surname: Candito
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Panicara_Eugenia {
@@ -1340,7 +1340,7 @@ athletes {
     surname: Grandi
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
 
   Zanfi_Davide {
@@ -14481,5 +14481,158 @@ name: Budapest
     Montagnani_Simona 07 09 84
   }
   }  
+}
+
+Firenze_2017_11_04 {
+type: Circuito_Supermaster
+start_date: 2017-11-04
+name: Firenze
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 03 07 52
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Salmi_Claudio 01 59 97
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Serra_Antonio 00 44 19
+    Nora_Angela 00 44 59
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 01 20 13
+    Tosi_Andrea 01 15 64
+  }
+  } 
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 46 82
+  }
+  } 
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Salmi_Claudio 00 41 99
+    Montagnani_Simona 00 36 20
+    Tosi_Andrea 00 33 14
+  }
+  }
+}
+
+Bologna_2017_11_18 {
+type: Circuito_Supermaster
+start_date: 2017-11-18
+name: Bologna
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Serra_Antonio 13 56 10
+    Tosi_Andrea 12 22 70
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Serra_Antonio 01 40 18
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Loschi_Ilaria 03 00 35
+    Santi_Marinella 03 06 40
+    Sacchi_Marco 02 23 40
+    Masini_Marzio 02 30 99
+    Barbieri_Matteo 02 39 50
+    Vignocchi_Roberto 02 48 41
+  }
+  } 
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 37 88
+    Masini_Marzio 00 32 92
+    Sacchi_Marco 00 33 28
+    Vignocchi_Roberto 00 33 11
+  }
+  } 
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Santi_Marinella 00 46 69
+    Barbieri_Matteo 00 38 99
+    Gavioli_Enrico 00 49 29
+    Montagnani_Simona 00 47 87
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Loschi_Ilaria 00 37 53
+    Nora_Angela 00 38 38
+    Gavioli_Enrico 00 40 79
+    Salmi_Claudio 00 41 56
+    Tosi_Andrea 00 33 42
+  }
+  }    
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 46 21
+  }
+  }    
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Zaniboni_Maurizio 01 41 76
+    Salmi_Claudio 01 59 14
+  }
+  }    
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Zaniboni_Maurizio 01 16 87
+  }
+  }    
 }
 }
