@@ -149,6 +149,14 @@ athletes {
     subscribed: 1
   }
 
+  Silvestri_Ilaria {
+    name: Ilaria
+    surname: Silvestri
+    nickname:
+    birthday:
+    subscribed: 1
+  }
+
   Zacchi_Francesco {
     name: Francesco
     surname: Zacchi
@@ -401,6 +409,14 @@ athletes {
   Ismail_Anna {
     name: Anna
     surname: Ismail
+    nickname:
+    birthday:
+    subscribed: 1
+  }
+
+  Meletti_Alberto {
+    name: Alberto
+    surname: Meletti
     nickname:
     birthday:
     subscribed: 1
@@ -14634,5 +14650,127 @@ name: Bologna
     Zaniboni_Maurizio 01 16 87
   }
   }    
+}
+
+Riccione_2017_12_09 {
+type: Circuito_Supermaster
+start_date: 2017-12-09
+name: Riccione
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 30
+  results {
+    Silvestri_Ilaria 27 28 00
+    Tosi_Andrea 23 41 19
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Nora_Angela 03 50 76
+    Salmi_Claudio 04 28 10
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Loschi_Ilaria 02 57 81
+    Giovanardi_Manuela 02 45 33
+    Sacchi_Marco 02 22 69
+    Mari_Francesco 02 32 79
+    Meletti_Alberto 03 26 00
+    Barillaro_Andrea 02 41 21
+    Serra_Antonio 03 00 75
+    Tosi_Andrea 02 48 97
+  }
+  } 
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Vignocchi_Roberto 00 33 48
+  }
+  } 
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Santi_Marinella 01 50 94
+    Giovanardi_Manuela 01 28 65
+    Gavioli_Enrico 01 51 78
+    Salmi_Claudio 01 56 16
+  }
+  }  
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Loschi_Ilaria 00 43 82
+    Nora_Angela 00 44 07
+    Montagnani_Simona 00 47 03
+    Sacchi_Marco 00 34 97
+    Serra_Antonio 00 43 42
+  }
+  }    
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Pivetti_Marco 01 19 40
+    Vian_Andrea 01 21 21
+  }
+  }    
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Pivetti_Marco 01 47 58
+  }
+  }    
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Gavioli_Enrico 00 40 59
+  }
+  }  
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Santi_Marinella 03 30 95
+    Montagnani_Simona 03 31 41
+    Vignocchi_Roberto 03 17 87
+  }
+  }    
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Staffetta_Mista 02 21 72
+    Staffetta_Mista 02 39 47
+  }
+  }    
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Staffetta_Mista 02 22 71
+  }
+  }                    
 }
 }
