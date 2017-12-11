@@ -1077,7 +1077,7 @@ createPage leftMenu fileName title (wwwContent, palmContent)
   normal_html = do 
        headerLogoDiv
          <- return ((thediv ! [identifier "header-logo"]) <<
-                     (hotlink1 "index.html" (image ! [src "resources/logo_small.png", alt "Sea Sub Modena"])))
+                     (hotlink1 "index.html" (image ! [src "resources/logo1_small.png", alt "Sea Sub Modena"])))
 
        headerDescriptionDiv
          <- return ((thediv ! [identifier "header-description"]) << linesToHtml ["Sea Sub Modena", "Settore Nuoto Master", "Tempi Gare"])
