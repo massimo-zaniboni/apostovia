@@ -1391,6 +1391,14 @@ athletes {
     subscribed: 1
   }
 
+  Gavioli_Enrico {
+    name: Enrico
+    surname: Gavioli
+    nickname:
+    birthday:
+    subscribed: 1
+  }
+ 
 }
 }
 
