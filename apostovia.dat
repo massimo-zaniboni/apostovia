@@ -14592,7 +14592,7 @@ name: Bologna
   nr_of_repetitions: 4
   results {
     Loschi_Ilaria 03 00 35
-    Santi_Marinella 03 06 40
+    Santi_Marinella 03 06 40 [https://youtu.be/_SYmYnfocKs]
     Sacchi_Marco 02 23 40
     Masini_Marzio 02 30 99
     Barbieri_Matteo 02 39 50
@@ -14615,7 +14615,7 @@ name: Bologna
   distance: 50
   nr_of_repetitions: 1
   results {
-    Santi_Marinella 00 46 69
+    Santi_Marinella 00 46 69 [https://youtu.be/Phc-e-niqPI]
     Barbieri_Matteo 00 38 99
     Gavioli_Enrico 00 49 29
     Montagnani_Simona 00 47 87
@@ -14857,5 +14857,127 @@ name: Parma
     Staffetta_Mista 02 51 89
   }
   }      
+}
+
+Bologna_2018_01_07 {
+type: Italiani_Invernali
+start_date: 2018-01-07
+name: Bologna
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Vignocchi_Roberto 01 36 92
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Santi_Marinella 00 46 49 [https://youtu.be/HBqnHPXdonA]
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Santi_Marinella 01 22 27
+    Vignocchi_Roberto 01 14 92
+    Vian_Andrea 01 19 68
+  }
+  } 
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Vian_Andrea 00 36 17
+    Serra_Antonio 00 36 87
+  }
+  } 
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Serra_Antonio 00 44 12
+  }
+  }                    
+}
+
+Ravenna_2018_01_13 {
+type: Circuito_Supermaster
+start_date: 2018-01-13
+name: Ravenna
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 01 39 78
+    Montagnani_Simona 01 41 59
+    Vignocchi_Roberto 01 33 61
+    Serra_Antonio 01 39 02
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 36 81
+    Vignocchi_Roberto 00 34 41
+    Vian_Andrea 00 36 94
+    Gavioli_Enrico 00 40 06
+    Salmi_Claudio 00 42 01
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Serra_Antonio 00 46 34
+    Nora_Angela 00 47 58
+    Salmi_Claudio 00 49 36
+    Gavioli_Enrico 00 49 72
+  }
+  }  
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Staffetta_Mista 02 48 24
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Loschi_Ilaria 01 22 62
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Loschi_Ilaria 00 44 24
+    Pivetti_Marco 00 46 24
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Pivetti_Marco 02 57 17
+  }
+  }                                        
 }
 }
