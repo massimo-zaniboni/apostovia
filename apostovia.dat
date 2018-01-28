@@ -14885,7 +14885,7 @@ name: Bologna
   nr_of_repetitions: 2
   results {
     Santi_Marinella 01 22 27
-    Vignocchi_Roberto 01 14 92
+    Vignocchi_Roberto 01 14 92 [https://youtu.be/bkR8x1aEZNI]
     Vian_Andrea 01 19 68
   }
   } 
@@ -14979,5 +14979,27 @@ name: Ravenna
     Pivetti_Marco 02 57 17
   }
   }                                        
+}
+
+Desenzano_2018_01_27 {
+type: Circuito_Supermaster
+start_date: 2018-01-27
+name: Desenzano
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Vignocchi_Roberto 00 30 95
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vignocchi_Roberto 01 28 88
+  }
+  }
 }
 }
