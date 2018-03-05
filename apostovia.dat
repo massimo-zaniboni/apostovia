@@ -149,6 +149,14 @@ athletes {
     subscribed: 1
   }
 
+  Bertoncelli_Alex {
+    name: Alex
+    surname: Bertoncelli
+    nickname:
+    birthday:
+    subscribed: 1
+  }
+
   Silvestri_Ilaria {
     name: Ilaria
     surname: Silvestri
@@ -14999,6 +15007,161 @@ name: Desenzano
   nr_of_repetitions: 4
   results {
     Vignocchi_Roberto 01 28 88 [https://youtu.be/vSN9ihp7nQQ]
+  }
+  }
+}
+
+Riccione_2018_02_25 {
+type: Regionali_FIN
+start_date: 2018-02-25
+name: Riccione
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 32
+  results {
+    Bertoncelli_Alex 10 35 84
+    Vian_Andrea 12 32 70
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 00 44 89
+    Sacchi_Marco 00 33 62
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Giovanardi_Manuela 01 20 99
+    Sacchi_Marco 01 14 08
+    Mari_Francesco 01 16 63
+    Meletti_Alberto 01 44 92
+    Barbieri_Matteo 01 16 63
+    Gavioli_Enrico 01 47 05
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 00 47 32
+    Meletti_Alberto 00 49 50
+    Barbieri_Matteo 00 38 92
+    Salmi_Claudio 00 49 07
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Staffetta_Mista 02 17 04
+    Staffetta_Mista 02 58 88
+    Santi_Marinella 03 25 86 [https://youtu.be/OozYvy2ShcU]
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Staffetta_Mista 02 05 60
+    Staffetta_Mista 02 19 84
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Giovanardi_Manuela 06 31 25
+    Montagnani_Simona 07 05 75
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Loschi_Ilaria 00 35 56
+    Mezzadri_Manuela 00 33 45
+    Gavioli_Enrico 00 38 94
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Salmi_Claudio 04 22 11
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 01 34 29
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Loschi_Ilaria 02 58 98
+    Mezzadri_Manuela 02 37 79
+    Staffetta_Femminile 02 19 69
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Pivetti_Marco 06 00 85
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Pivetti_Marco 01 36 71
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 01 21 96
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 60
+  results {
+    Vignocchi_Roberto 23 52 01
+    Vian_Andrea 24 38 43
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vignocchi_Roberto 01 27 11
+    Santi_Marinella 01 36 13
+    Serra_Antonio 01 38 43
   }
   }
 }
