@@ -10920,7 +10920,7 @@ name: Ravenna
 }
 
 Riccione_2014_02_09 {
-type: Circuito_Supermaster
+type: Regionali_FIN
 start_date: 2014-02-09
 name: Riccione
   race {
@@ -12060,7 +12060,7 @@ name: Faenza_Imola
 }
   
 Riccione_2015_02_15 {
-type: Circuito_Supermaster
+type: Regionali_FIN
 start_date: 2015-02-15
 name: Riccione
   race {
@@ -15162,6 +15162,105 @@ name: Riccione
     Vignocchi_Roberto 01 27 11
     Santi_Marinella 01 36 13
     Serra_Antonio 01 38 43
+  }
+  }
+}
+
+Bologna_2018_03_18 {
+type: Circuito_Supermaster
+start_date: 2018-03-18
+name: Bologna
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 46 73
+    Zaniboni_Maurizio 00 44 31
+    Serra_Antonio 00 47 84
+    Salmi_Claudio 00 50 09
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Zaniboni_Maurizio 03 30 82
+    Serra_Antonio 03 40 52
+  }
+  }
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Mazzeo_Patrizia 03 54 71
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Mazzeo_Patrizia 02 01 93
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 39 25
+    Salmi_Claudio 00 41 80
+  }
+  }
+}
+
+Mantova_2018_03_25 {
+type: Circuito_Supermaster
+start_date: 2018-03-25
+name: Mantova
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 01 34 32
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 00 44 81
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Nora_Angela 01 42 60
+    Salmi_Claudio 01 52 93
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Salmi_Claudio 00 42 72
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 01 33 78
+    Gavioli_Enrico 01 46 06
   }
   }
 }
