@@ -15264,4 +15264,154 @@ name: Mantova
   }
   }
 }
+
+Sassuolo_2018_04_09 {
+type: Circuito_Supermaster
+start_date: 2018-04-09
+name: Sassuolo
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Foroni_Jessica 02 52 77
+    Montagnani_Simona 02 53 60
+    Sacchi_Marco 02 19 75
+    Mari_Francesco 02 25 57
+    Masini_Marzio 02 27 80
+    Barbieri_Matteo 02 33 67
+    Cappelli_Stefano 02 43 40
+    Barillaro_Andrea 02 38 08
+    Vian_Andrea 02 55 16
+    Staffetta_Femminile 02 35 04
+    Staffetta_Maschile 02 01 39
+    Staffetta_Maschile 02 22 25
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    De_Biasio_Silvia 00 39 70
+    Sacchi_Marco 00 33 81
+    Mari_Francesco 00 33 81
+    Masini_Marzio 00 33 69
+    Barbieri_Matteo 00 34 91
+    Vignocchi_Roberto 00 34 16
+    Tosi_Andrea 00 46 09
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Loschi_Ilaria 00 43 03
+    Giovanardi_Manuela 00 37 54
+    Nora_Angela 00 44 17
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 00 39 93
+    Sangiorgi_Stefano 00 46 58
+    Gavioli_Enrico 00 49 12
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Loschi_Ilaria 00 37 21
+    De_Biasio_Silvia 00 35 21
+    Foroni_Jessica 00 36 10
+    Sangiorgi_Stefano 00 35 35
+    Gavioli_Enrico 00 39 34
+    Salmi_Claudio 00 40 70
+    Tosi_Andrea 00 33 93
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Santi_Marinella 03 29 39
+    Montagnani_Simona 03 19 36
+    Cappelli_Stefano 03 07 64
+    Barillaro_Andrea 03 12 17
+    Staffetta_Femminile 02 44 38
+    Staffetta_Femminile 02 37 15
+    Staffetta_Maschile 02 12 82 [https://youtu.be/uO0OS7ei6Ao]
+    Staffetta_Maschile 02 32 38
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Mezzadri_Manuela 05 36 42
+    Gatti_Maria_Giulia 06 14 73
+    Mazzeo_Patrizia 06 42 68
+    Ismail_Anna 06 43 62
+    Bertoncelli_Alex 04 57 83
+    Zaniboni_Maurizio 05 55 61
+    Gambigliani_Zoccoli_Raffaele 05 23 15
+    Zanasi_Marco 05 35 99
+    Bruzzi_Rossano 06 15 61
+    Vian_Andrea 06 14 78
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Mazzeo_Patrizia 01 59 25
+    Bruzzi_Rossano 01 51 80
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Gatti_Maria_Giulia 01 29 96
+    Serra_Antonio 01 36 10
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Nora_Angela 01 43 39
+    Zaniboni_Maurizio 01 35 60
+    Zanasi_Marco 01 21 05
+    Gambigliani_Zoccoli_Raffaele 01 31 19
+    Cassanelli_Armando 01 37 34
+    Salmi_Claudio 01 55 62
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Mezzadri_Manuela 01 12 73
+    Santi_Marinella 01 20 12
+    Ismail_Anna 01 38 20
+    Bertoncelli_Alex 01 02 45
+    Vignocchi_Roberto 01 11 07
+    Serra_Antonio 01 21 35
+    Cassanelli_Armando 01 25 63
+  }
+  }
+}
 }
