@@ -14176,7 +14176,7 @@ name: Bologna
 }
 
 Lugo_2017_04_09 {
-type: Coppa_Emilia_Marche
+type: Trofeo_UISP
 start_date: 2017-04-09
 name: Lugo
   race {
@@ -15411,6 +15411,74 @@ name: Sassuolo
     Vignocchi_Roberto 01 11 07
     Serra_Antonio 01 21 35
     Cassanelli_Armando 01 25 63
+  }
+  }
+}
+
+Molinella_2018_04_21 {
+type: Circuito_Supermaster
+start_date: 2018-04-21
+name: Molinella
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Montagnani_Simona 03 43 90
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Gavioli_Enrico 01 48 60
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Gavioli_Enrico 00 39 40
+  }
+  }
+}
+
+Lugo_2018_04_22 {
+type: Trofeo_UISP
+start_date: 2018-04-22
+name: Lugo
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Santi_Marinella 01 33 17 [https://youtu.be/AETpTAeqrrk]
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Santi_Marinella 00 34 16 [https://youtu.be/bBMHtzlBzjg]
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Vignocchi_Roberto 00 34 19 [https://youtu.be/wu8Kn5ynE7Q]
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Vignocchi_Roberto 00 39 85 [https://youtu.be/LJUO6nO0yf4]
   }
   }
 }
