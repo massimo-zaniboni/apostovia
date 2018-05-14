@@ -15482,4 +15482,67 @@ name: Lugo
   }
   }
 }
+
+San_Marino_2018_05_12 {
+type: Circuito_Supermaster
+start_date: 2018-05-12
+name: San_Marino
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Lisotti_Alessandra 11 56 83
+    Santi_Marinella 14 10 60
+    Barbieri_Matteo 11 28 77
+    Vignocchi_Roberto 12 51 35
+    Tosi_Andrea 12 05 43
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Nora_Angela 03 50 98
+    Montagnani_Simoma 03 54 39
+    Salmi_Claudio 04 35 97
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 44 24
+    Serra_Antonio 00 43 69
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Santi_Marinella 00 35 45 [https://youtu.be/z5YC58sclMc]
+    Salmi_Claudio 00 40 74
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Vignocchi_Roberto 02 46 52
+    Serra_Antonio 03 04 65
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Montagnani_Simoma 06 23 00
+  }
+  }
+}
 }
