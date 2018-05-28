@@ -15545,4 +15545,42 @@ name: San_Marino
   }
   }
 }
+
+Treviso_2018_05_18 {
+type: Circuito_Supermaster
+start_date: 2018-05-18
+name: Treviso
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 30
+  results {
+    Montagnani_Simona 25 08 50
+    Tosi_Andrea 23 36 30
+  }
+  }
+  
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Montagnani_Simona 13 12 30
+  }
+  }
+}
+
+Prato_2018_05_26 {
+type: Circuito_Supermaster
+start_date: 2018-05-26
+name: Prato
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Tosi_Andrea 05 45 22
+  }
+  }
+}
 }
