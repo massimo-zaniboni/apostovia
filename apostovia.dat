@@ -186,7 +186,7 @@ athletes {
     surname: Affronte
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
 
   Zuccoli_Roberto {
@@ -1220,7 +1220,7 @@ athletes {
     surname: Ricco`
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
 
   Gambigliani_Zoccoli_Raffaele {
@@ -1364,7 +1364,7 @@ athletes {
     surname: Grandi
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Zanfi_Davide {
@@ -15580,6 +15580,21 @@ name: Prato
   nr_of_repetitions: 8
   results {
     Tosi_Andrea 05 45 22
+  }
+  }
+}
+
+Brescia_2018_10_21 {
+type: Circuito_Supermaster
+start_date: 2018-10-21
+name: Brescia
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 30
+  results {
+    Vignocchi_Roberto 24 25 00
+    Tosi_Andrea 23 47 30
   }
   }
 }
