@@ -15598,4 +15598,103 @@ name: Brescia
   }
   }
 }
+
+Bologna_2018_11_18 {
+type: Circuito_Supermaster
+start_date: 2018-11-18
+name: Bologna
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Bertoncelli_Alex 10 42 60
+    Zaniboni_Maurizio 13 04 90
+    Serra_Antonio 13 59 00
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Serra_Antonio 01 40 59
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Zaniboni_Maurizio 03 48 77
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Bertoncelli_Alex 02 20 76
+    Pivetti_Marco 02 59 99
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Vignocchi_Roberto 00 34 59
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 47 47
+    Pivetti_Marco 00 47 08
+    Salmi_Claudio 00 53 75
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Tosi_Andrea 00 34 16
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Vignocchi_Roberto 03 22 65
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 45 14
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Salmi_Claudio 02 03 16
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Tosi_Andrea 01 16 96
+  }
+  }
+}
 }
