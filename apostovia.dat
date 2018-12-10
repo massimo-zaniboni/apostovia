@@ -15697,4 +15697,87 @@ name: Bologna
   }
   }
 }
+
+Riccione_2018_12_09 {
+type: Circuito_Supermaster
+start_date: 2018-12-09
+name: Riccione
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 30
+  results {
+    Tosi_Andrea 23 22 97
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Mari_Francesco 02 36 67
+    Meletti_Alberto 03 17 32
+    Barbieri_Matteo 02 40 63
+    Serra_Antonio 03 05 39
+    Tosi_Andrea 02 48 79
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 39 79
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Barbieri_Matteo 01 28 13
+    Gavioli_Enrico 01 52 72
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Serra_Antonio 00 45 35
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Gavioli_Enrico 01 35 20
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 04 03 20
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Vignocchi_Roberto 06 14 22
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Vignocchi_Roberto 03 24 77
+  }
+  }
+}
 }
