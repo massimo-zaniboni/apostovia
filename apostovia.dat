@@ -15780,4 +15780,72 @@ name: Riccione
   }
   }
 }
+
+Parma_2018_12_16 {
+type: Circuito_Supermaster
+start_date: 2018-12-16
+name: Parma
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Bertoncelli_Alex 04 45 03
+  }
+  } 
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Emanuela 00 40 78
+    Nora_Angela 00 46 83
+    Salmi_Claudio 00 52 66
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Emanuela 00 38 87
+    Nora_Angela 00 44 23
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Bertoncelli_Alex 01 00 76
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 00 36 77
+    Gavioli_Enrico 00 39 48
+    Salmi_Claudio 00 42 10
+  }
+  }  
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 01 35 58
+    Gavioli_Enrico 01 52 48
+  }
+  }      
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Staffetta_Mista 02 55 29
+  }
+  }      
+}
 }
