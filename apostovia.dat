@@ -162,7 +162,7 @@ athletes {
     surname: Silvestri
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Zacchi_Francesco {
@@ -186,7 +186,7 @@ athletes {
     surname: Affronte
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Zuccoli_Roberto {
@@ -194,7 +194,7 @@ athletes {
     surname: Zuccoli
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
   
   Mazzeo_Patrizia {
@@ -227,7 +227,7 @@ athletes {
     surname: Loschi
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Tosi_Elena {
@@ -299,7 +299,7 @@ athletes {
     surname: Barillaro
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Bertoni_Stefano {
@@ -331,7 +331,7 @@ athletes {
     surname: Bettati
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Lisotti_Alessandra {
@@ -1220,7 +1220,7 @@ athletes {
     surname: Ricco`
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Gambigliani_Zoccoli_Raffaele {
@@ -1404,7 +1404,7 @@ athletes {
     surname: Carraroli
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Santi_Marinella {
@@ -15768,7 +15768,7 @@ name: Riccione
   distance: 50
   nr_of_repetitions: 8
   results {
-    Vignocchi_Roberto 06 14 22
+    Vignocchi_Roberto 06 14 22 [https://youtu.be/_m7Sw6mQ2Ms]
   }
   }
   race {
@@ -15776,7 +15776,7 @@ name: Riccione
   distance: 50
   nr_of_repetitions: 4
   results {
-    Vignocchi_Roberto 03 24 77
+    Vignocchi_Roberto 03 24 77 [https://youtu.be/Ct1ZtD44cNc]
   }
   }
 }
