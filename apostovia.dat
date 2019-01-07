@@ -15848,4 +15848,26 @@ name: Parma
   }
   }      
 }
+
+Bologna_2018_01_05 {
+type: Italiani_Invernali
+start_date: 2018-01-07
+name: Bologna
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Vignocchi_Roberto 00 34 60
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Vignocchi_Roberto 01 32 92
+  }
+  }                    
+}
 }
