@@ -15858,7 +15858,7 @@ name: Bologna
   distance: 50
   nr_of_repetitions: 1
   results {
-    Vignocchi_Roberto 00 34 60
+    Vignocchi_Roberto 00 34 60 [https://youtu.be/mDMgslXkZnc]
   }
   }
   race {
@@ -15866,7 +15866,7 @@ name: Bologna
   distance: 50
   nr_of_repetitions: 2
   results {
-    Vignocchi_Roberto 01 32 92
+    Vignocchi_Roberto 01 32 92 [https://youtu.be/3SmqpQeLpac]
   }
   }                    
 }
