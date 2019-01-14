@@ -15870,4 +15870,102 @@ name: Bologna
   }
   }                    
 }
+
+Ravenna_2019_01_12 {
+type: Circuito_Supermaster
+start_date: 2019-01-12
+name: Ravenna
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Mezzadri_Manuela 05 57 58
+    Serra_Antonio 06 47 55
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 01 27 67
+    Vignocchi_Roberto 01 32 51
+    Serra_Antonio 01 41 62
+  }
+  }  
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Mezzadri_Manuela 00 35 19
+    Santi_Marinella 00 37 23 [https://youtu.be/0Q1ygFMpZdU]
+    Vignocchi_Roberto 00 31 44
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Giovanardi_Manuela 00 41 30
+    Santi_Marinella 00 48 72 [https://youtu.be/W6vFEzePY90]
+  }
+  }  
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Lisotti_Alessandra 03 15 69
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 01 23 61
+    Barbieri_Matteo 01 12 00
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 01 47 55
+    Barbieri_Matteo 01 28 78
+    Gavioli_Enrico 01 51 49
+    Salmi_Claudio 02 00 30
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 40 19
+    Salmi_Claudio 00 56 89
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 45 16
+    Pivetti_Marco 00 47 39
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Pivetti_Marco 03 01 72
+  }
+  }                                        
+}
 }
