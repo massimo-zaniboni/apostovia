@@ -1404,7 +1404,7 @@ athletes {
     surname: Carraroli
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
 
   Santi_Marinella {
@@ -15849,9 +15849,9 @@ name: Parma
   }      
 }
 
-Bologna_2018_01_05 {
+Bologna_2019_01_05 {
 type: Italiani_Invernali
-start_date: 2018-01-07
+start_date: 2019-01-07
 name: Bologna
   race {
   discipline: DF
