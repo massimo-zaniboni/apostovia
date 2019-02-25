@@ -15968,4 +15968,97 @@ name: Ravenna
   }
   }                                        
 }
+
+Bologna_2019_02_03 {
+type: Regionali_FIN
+start_date: 2019-02-03
+name: Bologna
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_angela 00 44 87
+    Salmi_Claudio 00 59 91
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Mezzadri_Manuela 02 46 42
+    Bertoncelli_Alex 02 18 38
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_angela 01 47 59
+    Salmi_Claudio 02 00 02
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Vignocchi_Roberto 13 25 52
+    Bertoncelli_Alex 10 20 65
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 39 83
+    Vignocchi_Roberto 00 34 44
+    Gavioli_Enrico 00 47 13
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Santi_Marinella 03 58 89 [https://youtu.be/8pCFAhcL28s]
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Santi_Marinella 03 41 68 [https://youtu.be/zzR2U_R92YI]
+    Montagnani_Simona 03 38 61
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Zaniboni_Maurizio 06 05 58
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Zaniboni_Maurizio 01 14 52
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Gavioli_Enrico 01 46 90
+  }
+  }
+}
 }
