@@ -15798,7 +15798,7 @@ name: Parma
   distance: 25
   nr_of_repetitions: 2
   results {
-    Giovanardi_Emanuela 00 40 78
+    Giovanardi_Manuela 00 40 78
     Nora_Angela 00 46 83
     Salmi_Claudio 00 52 66
   }
@@ -15808,7 +15808,7 @@ name: Parma
   distance: 25
   nr_of_repetitions: 2
   results {
-    Giovanardi_Emanuela 00 38 87
+    Giovanardi_Manuela 00 38 87
     Nora_Angela 00 44 23
   }
   }  
@@ -15978,7 +15978,7 @@ name: Bologna
   distance: 50
   nr_of_repetitions: 1
   results {
-    Nora_angela 00 44 87
+    Nora_Angela 00 44 87
     Salmi_Claudio 00 59 91
   }
   }
@@ -15996,7 +15996,7 @@ name: Bologna
   distance: 50
   nr_of_repetitions: 2
   results {
-    Nora_angela 01 47 59
+    Nora_Angela 01 47 59
     Salmi_Claudio 02 00 02
   }
   }
