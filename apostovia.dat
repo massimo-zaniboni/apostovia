@@ -16061,4 +16061,100 @@ name: Bologna
   }
   }
 }
+
+Mirandola_2019_03_17 {
+type: Circuito_Supermaster
+start_date: 2019-03-17
+name: Mirandola
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Giovanardi_Manuela 03 01 26
+    Serra_Antonio 03 37 37
+  }
+  } 
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 01 35 78
+  }
+  } 
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Lisotti_Alessandra 03 13 09
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Lisotti_Alessandra 00 46 24
+    Nora_Angela 00 46 92
+    Cassanelli_Armando 00 44 04
+    Gavioli_Enrico 00 49 22
+    Salmi_Claudio 00 51 17
+    Vandelli_Imer 00 54 50
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Mezzadri_Manuela 00 34 08
+    Montagnani_Simona 00 37 25
+    Nora_Angela 00 40 57
+    Ismail_Anna 00 45 84
+    Cassanelli_Armando 00 37 84
+    Gavioli_Enrico 00 39 59
+    Salmi_Claudio 00 42 17
+    Tosi_Andrea 00 34 36
+    Vian_Andrea 00 37 39
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Mezzadri_Manuela 01 14 02
+    Giovanardi_Manuela 01 17 45
+    Ismail_Anna 01 36 17
+    Serra_Antonio 01 24 29
+    Vandelli_Imer 01 41 40
+    Tosi_Andrea 01 17 91
+    Vian_Andrea 01 22 98
+  }
+  }
+}
+
+Forli_2019_03_31 {
+type: Circuito_Supermaster
+start_date: 2019-03-31
+name: Forli
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Pivetti_Marco 00 46 40
+  }
+  } 
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Pivetti_Marco 06 11 28
+  }
+  }
+}
 }
