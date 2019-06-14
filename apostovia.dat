@@ -16157,4 +16157,200 @@ name: Forli
   }
   }
 }
+
+Sassuolo_2019_04_07 {
+type: Circuito_Supermaster
+start_date: 2019-04-07
+name: Sassuolo
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 00 44 17
+  }
+  } 
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 00 41 96
+    Sacchi_Marco 00 33 98
+  }
+  } 
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Zanasi_Marco 00 35 91
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Nora_Angela 01 45 99
+    Cassanelli_Armando 01 38 99
+    Nora_Angela 01 54 56
+    Gavioli_Enrico 01 56 89
+    Vandelli_Imer 02 03 08
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Sacchi_Marco 01 03 29
+    Meletti_Alberto 01 26 33
+    Barbieri_Matteo 01 10 49
+    Sangiorgi_Stefano 01 21 89
+    Cassanelli_Armando 01 23 72
+    Salmi_Claudio 01 31 29
+    Gavioli_Enrico 01 36 78
+    Vandelli_Imer 01 42 41
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Gambigliani_Zoccoli_Raffaele 05 30 62
+    Sangiorgi_Stefano 06 30 03
+    Vian_Andrea 06 18 32
+  }
+  }
+}
+
+Molinella_2019_04_14 {
+type: Circuito_Supermaster
+start_date: 2019-04-14
+name: Molinella
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Cassanelli_Armando 00 38 24
+  }
+  }
+}
+
+San_Marino_2019_05_12 {
+type: Circuito_Supermaster
+start_date: 2019-05-12
+name: San_Marino
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 44 76
+    Gavioli_Enrico 00 54 36
+  }
+  }
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 03 32 04
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Nora_Angela 04 03 87
+    Salmi_Claudio 04 14 13
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Montagnani_Simona 00 37 05
+    Gavioli_Enrico 00 39 68
+    Salmi_Claudio 00 41 52
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Tosi_Andrea 02 49 07
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Tosi_Andrea 12 15 91
+  }
+  }
+}
+
+Caldiero_2019_05_25 {
+type: Circuito_Supermaster
+start_date: 2019-05-25
+name: Caldiero
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 01 41 94
+    Gavioli_Enrico 01 51 13
+    Salmi_Claudio 01 55 31
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 36 39
+    Gavioli_Enrico 00 38 42
+    Salmi_Claudio 00 41 97
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 01 22 10
+  }
+  }
+}
+
+Prato_2019_05_25 {
+type: Circuito_Supermaster
+start_date: 2019-05-25
+name: Prato
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Tosi_Andrea 05 57 21
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Tosi_Andrea 02 48 01
+  }
+  }
+}
 }
