@@ -4,9 +4,9 @@ Convert swimming race results in a navigable, but static, HTML site.
 
 ## Installation and Usage
 
-Install Haskell Stack tool under Nix, or install only Stack without Nix, but remove Nix usage from ``stack.yaml`` file.
 
-Execute ``./update_local_web.sh`` for compiling the tool, and generating the data.
+  nix-build shell.nix
+  ./update_local_web.sh
 
 Change the content of ``apostovia.dat`` for generating a different web-site.
 

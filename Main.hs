@@ -528,7 +528,7 @@ getLastEvent db
                         then Just e1
                         else Just e2
 
-       result = fromJust (Map.fold f Nothing events)
+       result = fromJust (Map.foldr f Nothing events)
 
    in  result
 

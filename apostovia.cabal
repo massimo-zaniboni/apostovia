@@ -17,8 +17,8 @@ executable apostovia
   hs-source-dirs:      .
   main-is:             Main.hs
   ghc-options:         -threaded -rtsopts -with-rtsopts=-N
-  build-depends:       base >= 4.7 && < 5
-                       , parsec >= 3 && < 4
+  build-depends:         base -any
+                       , parsec -any
                        , containers -any
                        , html -any
                        , unix -any
