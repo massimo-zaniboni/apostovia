@@ -1415,6 +1415,14 @@ athletes {
     subscribed: 1
   }
 
+  Panini_Eleonora {
+    name: Eleonora
+    surname: Panini
+    nickname:
+    birthday:
+    subscribed: 1
+  }
+
   Gavioli_Enrico {
     name: Enrico
     surname: Gavioli
@@ -16350,6 +16358,175 @@ name: Prato
   nr_of_repetitions: 4
   results {
     Tosi_Andrea 02 48 01
+  }
+  }
+}
+
+Bologna_2019_11_17 {
+type: Circuito_Supermaster
+start_date: 2019-11-17
+name: Bologna
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 44 94
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Serra_Antonio 01 45 59
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Zaniboni_Maurizio 00 41 80
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Panini_Eleonora 01 40 37
+    Nora_Angela 01 46 49
+    Vandelli_Imer 02 02 91
+    Salmi_Claudio 01 54 45
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Zaniboni_Maurizio 00 33 42
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Vandelli_Imer 01 43 80
+    Salmi_Claudio 01 36 34
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Mezzadri_Manuela 02 44 81
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 16
+  results {
+    Panini_Eleonora 13 08 31
+    Lisotti_Alessandra 12 15 19
+    Mezzadri_Manuela 12 12 82
+    Serra_Antonio 13 58 32
+  }
+  }
+}
+
+Riccione_2019_12_07 {
+type: Circuito_Supermaster
+start_date: 2019-12-07
+name: Riccione
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Serra_Antonio 03 03 63
+  }
+  }
+  race {
+  discipline: DF
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Montagnani_Simona 00 39 88
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Zanasi_Marco 01 25 12
+    Gavioli_Enrico 01 53 75
+    Salmi_Claudio 01 54 09
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Nora_Angela 00 44 26
+    Serra_Antonio 00 44 94
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Montagnani_Simona 01 23 92
+    Gavioli_Enrico 01 34 79
+  }
+  }
+  race {
+  discipline: DS
+  distance: 50
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 01 43 07
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Salmi_Claudio 04 19 39
+  }
+  }
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Santi_Marinella 00 37 13
+    Vignocchi_Roberto 00 32 07
+  }
+  }
+  race {
+  discipline: RN
+  distance: 50
+  nr_of_repetitions: 1
+  results {
+    Santi_Marinella 00 49 62
+    Vignocchi_Roberto 00 43 96
+  }
+  }
+  race {
+  discipline: MX
+  distance: 50
+  nr_of_repetitions: 4
+  results {
+    Staffetta_Mista 02 51 90
   }
   }
 }
