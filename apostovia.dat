@@ -154,7 +154,7 @@ athletes {
     surname: Bertoncelli
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Silvestri_Ilaria {
@@ -170,7 +170,7 @@ athletes {
     surname: Zacchi
     nickname:
     birthday:
-    subscribed: 0
+    subscribed: 1
   }
   
   Cassanelli_Armando {
@@ -219,7 +219,7 @@ athletes {
     surname: De_Biasio
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Loschi_Ilaria {
@@ -323,7 +323,7 @@ athletes {
     surname: Mari
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Bettati_Matteo {
@@ -379,7 +379,7 @@ athletes {
     surname: Masini
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Sacchi_Marco {
@@ -387,7 +387,7 @@ athletes {
     surname: Sacchi
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Salmi_Claudio {
@@ -427,7 +427,7 @@ athletes {
     surname: Meletti
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Angelucci_Carlo {
@@ -1188,7 +1188,7 @@ athletes {
     surname: Pelliciari
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Scrivani_Maria_Teresa {
@@ -1404,7 +1404,7 @@ athletes {
     surname: Carraroli
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Santi_Marinella {
@@ -1420,7 +1420,7 @@ athletes {
     surname: Panini
     nickname:
     birthday:
-    subscribed: 1
+    subscribed: 0
   }
 
   Gavioli_Enrico {
@@ -16527,6 +16527,149 @@ name: Riccione
   nr_of_repetitions: 4
   results {
     Staffetta_Mista 02 51 90
+  }
+  }
+}
+
+Parma_2019_12_15 {
+type: Circuito_Supermaster
+start_date: 2019-12-15
+name: Parma
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 16
+  results {
+    Panini_Eleonora 06 16 27
+  }
+  }  
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 00 46 68  
+    Salmi_Claudio 00 49 70
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Salmi_Claudio 00 40 44
+    Montagnani_Simona 00 36 52
+    Gavioli_Enrico 00 39 56  
+  }
+  }
+  race {
+  discipline: RN
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Panini_Eleonora 01 37 29
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Nora_Angela 00 43 94
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Montagnani_Simona 01 33 68
+    Gavioli_Enrico 01 50 03
+  }
+  }
+  race {
+  discipline: MX
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Staffetta_Mista 02 52 03
+  }
+  }
+}
+
+Brescia_2020_10_25 {
+type: Circuito_Supermaster
+start_date: 2020-10-25
+name: Brescia
+  race {
+  discipline: SL
+  distance: 50
+  nr_of_repetitions: 8
+  results {
+    Tosi_Andrea 12 59 20
+  }
+  }
+}
+
+Riccione_2021_02_07 {
+type: Regionali_FIN
+start_date: 2021-02-07
+name: Riccione
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Giovanardi_Manuela 00 34 19
+    Santi_Marinella 00 36 69
+    Vignocchi_Roberto 00 31 58
+    Serra_Antonio 00 36 53
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Vitiello_Carlo 01 04 76
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 8
+  results {
+    Lisotti_Alessandra 02 49 89
+    Mezzadri_Manuela 02 42 08
+    Foroni_Jessica 02 50 08
+  }
+  }
+  race {
+  discipline: SL
+  distance: 25
+  nr_of_repetitions: 60
+  results {
+    Gambigliani_Zoccoli_Raffaele 21 14 00
+  }
+  }
+  race {
+  discipline: DS
+  distance: 25
+  nr_of_repetitions: 4
+  results {
+    Giovanardi_Manuela 01 21 20
+    Santi_Marinella 01 36 80
+    Vignocchi_Roberto 01 29 26
+    Serra_Antonio 01 37 13
+  }
+  }
+  race {
+  discipline: DF
+  distance: 25
+  nr_of_repetitions: 2
+  results {
+    Vitiello_Carlo 00 34 20
+    Mezzadri_Manuela 00 38 81
   }
   }
 }
