@@ -133,6 +133,15 @@ athletes {
     birthday:
     subscribed: 1
   }
+
+  Vitiello_Carlo {
+    name: Vitiello
+    surname: Carlo
+    nickname:
+    birthday:
+    subscribed: 1
+  }
+
   Borghi_Alessandro {
     name: Alessandro
     surname: Borghi

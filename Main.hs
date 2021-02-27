@@ -1120,15 +1120,9 @@ createPage leftMenu fileName title (wwwContent, palmContent)
        leftDiv <- return ((thediv ! [identifier "sidebar"]) << ( standardMenu +++ leftMenu))
        contentDiv <- return ((thediv ! [identifier "content"]) << wwwContent)
 
-       googleAnalyticsScript
-         <- return "<script type=\"text/javascript\">\nvar gaJsHost = ((\"https:\" ==document.location.protocol) ? \"https://ssl.\" : \"http://www.\");\ndocument.write(unescape(\"%3Cscript src='\" + gaJsHost +\"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E\"));\n</script>\n<script type=\"text/javascript\">\nvar pageTracker = _gat._getTracker(\"UA-3624268-1\");\npageTracker._initData();\npageTracker._trackPageview();\n</script>"
-
-       googleAnalytics
-         <- return (primHtml googleAnalyticsScript)
-
        bodySection <- return (
          (thediv ! [identifier "container"]) 
-         << (headerDiv +++ leftDiv +++ contentDiv +++ footerDiv +++ googleAnalytics))
+         << (headerDiv +++ leftDiv +++ contentDiv +++ footerDiv))
 
        cssLink <- return (thelink noHtml ! [rel "stylesheet", thetype "text/css", href "resources/main.css"])
 
